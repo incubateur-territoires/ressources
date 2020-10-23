@@ -1,2 +1,2 @@
-# Les Communs - je veux lancer un nouveau projet
+# Les Communs - je veux structurer mon projet
 
