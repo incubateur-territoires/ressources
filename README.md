@@ -12,7 +12,7 @@ Bienvenue sur l'espace ressources de l'Incubateur des Territoires. Ici, nous par
 
 {% page-ref page="se-positionner.md" %}
 
-{% page-ref page="contribuer.md" %}
+{% page-ref page="contribuer/" %}
 
 
 

@@ -1,4 +1,4 @@
-# Communs - Quels rôles ?
+# Tous impliqués... à différent titre
 
 En intégrant un projet de communs, votre institution et les agents impliqués vont s'intégrer à un projet dans lequel les contributeurs adoptent une ou plusieurs postures.
 
