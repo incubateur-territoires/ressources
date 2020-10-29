@@ -1,8 +1,6 @@
 # Glossaire
 
-## Commun
 
-txt
 
 ## Gouvernance
 

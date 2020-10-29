@@ -2,7 +2,7 @@
 description: Qui s'implique dans un commun
 ---
 
-# Communs - Pour qui ? Pour quoi ?
+# Communs - Pour qui ?
 
 {% hint style="info" %}
 Parcours Agent - Parcours Décideur

@@ -2,7 +2,9 @@
 
 * [Hub ressources](README.md)
 * [Communs - S'informer](communs-sinformer/README.md)
-  * [Communs - Pour qui ? Pour quoi ?](communs-sinformer/premiers-pas.md)
+  * [Communs - Pour qui ?](communs-sinformer/premiers-pas.md)
+  * [Communs - Quels rôles ?](communs-sinformer/communs-quels-roles.md)
+  * [Vérifier si \(et où\) la démarche de commun est pertinente pour mon projet](communs-sinformer/verifier-si-et-ou-la-demarche-de-commun-est-pertinente-pour-mon-projet.md)
   * [Communs - L'écosystème](communs-sinformer/communs-lecosysteme.md)
   * [Communs - Se faire accompagner](communs-sinformer/communs-se-faire-accompagner.md)
 * [Communs - Soutenir un projet](se-positionner.md)
@@ -14,6 +16,7 @@
   * [Communs - Comment prévenir les risques ?](untitled-1/communs-comment-prevenir-les-risques.md)
   * [Communs - Quel\(s\) financement\(s\) ?](untitled-1/communs-quel-s-financement-s.md)
 * [Incubation](incubation.md)
-* [Glossaire](glossaire.md)
+* [Glossaire](glossaire/README.md)
+  * [Commun\(s\)](glossaire/commun-s.md)
 * [\[notes au fil de l'eau\]](notes-au-fil-de-leau.md)
 

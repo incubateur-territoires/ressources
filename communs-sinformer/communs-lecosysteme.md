@@ -1,6 +1,6 @@
 # Communs - L'écosystème
 
-Un tour d'horizon des diff´rentes structures et communautés autour des collterr et peuvent être impliqués... ou pas
+Un tour d'horizon des différentes structures et communautés autour des collterr et peuvent être impliqués... ou pas
 
 * Agents référents
 * Intrapreneurs /EIG
