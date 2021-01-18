@@ -20,11 +20,12 @@
 * [Incubation](communs-numeriques/incubation/README.md)
   * [Outillage Projet](communs-numeriques/incubation/produire-des-communs.md)
 * [Gouvernance](communs-numeriques/gouvernance/README.md)
-  * [Communs - Quel modèle économique ?](communs-numeriques/gouvernance/modele-economique.md)
   * [Cadre de collaboration](communs-numeriques/gouvernance/structure-juridique/README.md)
-    * [Détail des structures](communs-numeriques/gouvernance/structure-juridique/detail-des-structures.md)
+    * [Détail des structures juridiques](communs-numeriques/gouvernance/structure-juridique/detail-des-structures.md)
+  * [Encadrer les relations entre les acteurs](communs-numeriques/gouvernance/modele-economique.md)
 * [Juridique](communs-numeriques/juridique/README.md)
-  * [Communs - Comment prévenir les risques ?](communs-numeriques/juridique/communs-comment-prevenir-les-risques.md)
+  * [Sécuriser les droits des contributeurs](communs-numeriques/juridique/securiser-les-droits-des-contributeurs.md)
+  * [Prévenir les risques](communs-numeriques/juridique/communs-comment-prevenir-les-risques.md)
 
 ## OUTILS
 

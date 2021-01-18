@@ -1,4 +1,4 @@
-# Détail des structures
+# Détail des structures juridiques
 
 Des régimes et dispositifs contractuels disponibles pour les collectivités territoriales sont listés ci-dessous. Pour plus de détails et des exemples d'utilisation, consultez le Google Sheet créé par Mauko Quiroga : "[Véhicules juridiques de coopération public-privé/commun](https://docs.google.com/spreadsheets/d/1zh1MPuzWhwICc5AuObwDkX9Cj-aO0V4bcN1c3-josRc/edit#gid=0)"
 

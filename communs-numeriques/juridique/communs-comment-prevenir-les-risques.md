@@ -1,9 +1,9 @@
-# Communs - Comment prévenir les risques ?
+# Prévenir les risques
 
 {% hint style="success" %}
-Les situations ci-dessous documentent des pratiques deprévention de risque de manière générique. 
+Les situations ci-dessous documentent des pratiques de prévention de risque de manière générique. 
 
-Dans le cadre d'une incubation par l'Incubateur des Territoires, 
+Dans le cadre d'une incubation par l'Incubateur des Territoires, cette partie est gérée par l'équipe
 {% endhint %}
 
 ## **💣** Infractions aux règles de gouvernance <a id="infractions"></a>
