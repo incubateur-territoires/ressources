@@ -4,8 +4,6 @@ description: Sécuriser juridiquement les contributions au commun numérique
 
 # Sécuriser les droits des contributeurs
 
-
-
 ## ❓ Enjeux
 
 * Nous voulons nous assurer que les contributeurs soient titulaires des droits d’auteur sur leurs contributions, et puissent donc les verser au commun
