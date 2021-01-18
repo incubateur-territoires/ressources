@@ -1,7 +1,7 @@
 # Communs - Comment prévenir les risques ?
 
 {% hint style="success" %}
-Les sitations ci-dessous documentent des pratiques deprévention de risque de manière générique. 
+Les situations ci-dessous documentent des pratiques deprévention de risque de manière générique. 
 
 Dans le cadre d'une incubation par l'Incubateur des Territoires, 
 {% endhint %}

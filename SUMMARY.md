@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home \[temp : notes au fil de l'eau\]](README.md)
+* [Sources](sources.md)
 
 ## COMMUNS NUMÉRIQUES
 
@@ -17,10 +18,10 @@
     * [Checklist 2/3 : Notre intérêt à contribuer](communs-numeriques/prefiguration/contribuer/interet-a-contribuer.md)
     * [Checklist 3/3 : Notre contribution a de l'intérêt pour l'écosystème](communs-numeriques/prefiguration/contribuer/interet-pour-ecosysteme.md)
 * [Incubation](communs-numeriques/incubation/README.md)
-  * [Produire des communs](communs-numeriques/incubation/produire-des-communs.md)
+  * [Outillage Projet](communs-numeriques/incubation/produire-des-communs.md)
 * [Gouvernance](communs-numeriques/gouvernance/README.md)
   * [Communs - Quel modèle économique ?](communs-numeriques/gouvernance/modele-economique.md)
-  * [Communs - Quelle structure juridique pour porter le commun ?](communs-numeriques/gouvernance/structure-juridique/README.md)
+  * [Cadre de collaboration](communs-numeriques/gouvernance/structure-juridique/README.md)
     * [Détail des structures](communs-numeriques/gouvernance/structure-juridique/detail-des-structures.md)
 * [Juridique](communs-numeriques/juridique/README.md)
   * [Communs - Comment prévenir les risques ?](communs-numeriques/juridique/communs-comment-prevenir-les-risques.md)
