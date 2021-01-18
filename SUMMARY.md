@@ -22,6 +22,7 @@
 * [Gouvernance](communs-numeriques/gouvernance/README.md)
   * [Cadre de collaboration](communs-numeriques/gouvernance/structure-juridique/README.md)
     * [Détail des structures juridiques](communs-numeriques/gouvernance/structure-juridique/detail-des-structures.md)
+    * [Organiser une structure porteuse](communs-numeriques/gouvernance/structure-juridique/organiser-une-structure-porteuse.md)
   * [Encadrer les relations entre les acteurs](communs-numeriques/gouvernance/modele-economique.md)
 * [Juridique](communs-numeriques/juridique/README.md)
   * [Sécuriser les droits des contributeurs](communs-numeriques/juridique/securiser-les-droits-des-contributeurs.md)
