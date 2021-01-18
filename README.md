@@ -2,17 +2,15 @@
 description: '[Home Page]'
 ---
 
-# Hub ressources
+# Home \[temp : notes au fil de l'eau\]
 
-Bienvenue sur l'espace ressources de l'Incubateur des Territoires. Ici, nous partageons les éléments issus de notre collaboration avec les collectivités territoriales. Ces ressources sont à votre disposition. N'hésitez pas à les télécharger, à les partager, à nous signaler comment vous les utilisez et comment les rendre encore plus utiles !
+Engagement avec les visiteurs
 
-\[option d'interaction ici ? mail, formulaire?\]
+* une simple adresse email ressources@... pour recueillir les commentaires?
+* une option de feedback par document ?
+* on ouvre la possibilité de suggérer des modifs directement sur les docs \(markup\) et on modère?
 
-{% page-ref page="communs-sinformer/premiers-pas.md" %}
-
-{% page-ref page="se-positionner.md" %}
-
-{% page-ref page="contribuer/" %}
+Voudra-t-on se garder la possibilité de traduire certaines pages ? coopération/visibilité 
 
 
 
