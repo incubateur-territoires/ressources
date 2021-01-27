@@ -14,5 +14,9 @@ Voudra-t-on se garder la possibilité de traduire certaines pages ? coopération
 
 
 
+Utilisation de mediawiki + semantic mediawiki si le contenu 'enfle' et qu'on doit améliorer la capacité de chercher et découvrir ?
+
+
+
 
 
