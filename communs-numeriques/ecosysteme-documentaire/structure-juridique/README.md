@@ -1,4 +1,4 @@
-# Cadre de collaboration / convention
+# 🧭 Cadre de collaboration / convention
 
 * Sur cette page : Arbre de décision issu du tutoriel
 * Page en dessous : Détail issu du Tableau partagé de Mauko
