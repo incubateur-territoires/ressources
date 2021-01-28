@@ -1,4 +1,8 @@
-# Tous impliqués... à différent titre
+---
+description: Tous impliqués... à différents titres
+---
+
+# Rôles et postures au sein d'un projet de communs
 
 En intégrant un projet de communs, votre institution et les agents impliqués vont s'intégrer à un projet dans lequel les contributeurs adoptent une ou plusieurs postures.
 

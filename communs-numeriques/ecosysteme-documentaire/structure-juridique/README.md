@@ -1,4 +1,12 @@
-# Encadrer les relations entre les acteurs
+# Cadre de collaboration / convention
+
+* Sur cette page : Arbre de décision issu du tutoriel
+* Page en dessous : Détail issu du Tableau partagé de Mauko
+
+
+
+* Convention de partenariat
+* si consortium créé entre collectivités ? : convention d'adhésion
 
 Les relations des contributeurs à un projet de commun numérique sont nombreuses et diverses, allant de la simple coordination de contributions à des prises de décisions sur l’avenir de la ressource.
 
@@ -15,4 +23,8 @@ Lors de la phase d'incubation, les startups de territoires n'ont pas nécessaire
 Une personnalité juridique propre permet d’agir en justice, de bénéficier de certaines aides ou de contractualiser. Elle est généralement recommandée lorsqu’il existe un risque à maintenir la responsabilité des actions sur les seuls membres. 
 
 Les modèles associatifs ou coopératifs \(SCOP ou SCIC\) sont particulièrement souples et adaptés pour soutenir le développement d’un commun, néanmoins d’autres formes \(GIE, SAS, GIP, etc.\) peuvent parfaitement aboutir à des résultats similaires dès lors que leur objet est tourné vers la réalisation de cet objectif.
+
+
+
+
 
