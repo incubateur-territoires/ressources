@@ -47,6 +47,7 @@
 * [Portage politique](rapport-bothorel/portage-politique.md)
 * [Besoins opérationnels \[DRAFT\]](rapport-bothorel/besoins-operationnels.md)
 * [APIs](rapport-bothorel/apis.md)
+* [Hubs de partage](rapport-bothorel/hubs-de-partage.md)
 
 ## OUTILS
 
