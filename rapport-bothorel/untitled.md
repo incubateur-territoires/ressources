@@ -62,3 +62,46 @@
 
 **Recommandation n° 22** : Proposer une offre de formation dédiée aux élus sur les enjeux de la donnée et des codes sources dans les politiques publiques
 
+## Qualité de la donnée
+
+**Recommandation n° 23** : Créer un label de service producteur de la donnée pour reconnaître les efforts investis dans la donnée, par exemple dans le cadre du service public de la donnée
+
+**Recommandation n° 24** : Définir et mettre en œuvre une politique interministérielle d’interopérabilité et de qualité de la donnée \(démarches de standardisation, label FAIR, doctrine sur les métadonnées, catalogage\)
+
+**Recommandation n° 25** : Encourager les écosystèmes à définir des principes de gouvernance de la qualité, en désignant un référent qualité et en créant des communautés de réutilisation avec participation active des producteurs de la donnée
+
+## Infrastructures, partage et accès sécurisé
+
+**Recommandation n° 26** : Orienter les investissements du plan de relance vers les infrastructures favorables à la circulation de la donnée \(appels à projets de la DINUM et appels à projets sectoriels\)
+
+**Recommandation n° 27** : Encourager la création de "hubs" sectoriels ou intersectoriels, selon des modalités adaptées à chaque secteur, et dans des conditions assurant leur interopérabilité
+
+**Recommandation n° 28** : Créer un dispositif de bac à sable expérimental permettant à la CNIL de déroger aux textes existants pour autoriser la réutilisation de données personnelles dans des jeux d’apprentissage d’algorithmes d’intelligence artificielle, et leur conservation pour une durée plus longue que celle autorisée lors de leur collecte initiale
+
+**Recommandation n° 29** : Mettre en œuvre les dispositifs techniques permettant d’utiliser la procédure d’appariement de fichiers sur la base du code statistique non signifiant à des fins de statistique publique et de recherche scientifique et historique
+
+**Recommandation n° 30** : Améliorer la prise en charge des demandes des chercheurs, en associant les AMDAC et les SSM \(délai de réponse obligatoire, création d’un recours, recours à la consultation du comité du secret statistique à titre facultatif\)
+
+## Données d’intérêt général
+
+**Recommandation n° 31** : Privilégier une approche incitative et concertée, le recours à d’éventuels dispositifs coercitifs devant être dûment justifié et faire l’objet d’une évaluation préalable
+
+**Recommandation n° 32** : Sécuriser le cadre juridique du partage volontaire de données d’intérêt général concernant l’utilisation des données à caractère personnel \(par un guide de conformité de la CNIL\) et l’application du droit d’accès et de réutilisation applicable aux données du secteur privé reçues par les administrations
+
+**Recommandation n° 33** : Encourager les initiatives de portabilité citoyenne des données au service de l’intérêt général, notamment par l’organisation de campagnes de mobilisation citoyenne
+
+## Utilisation par le secteur public de données issues du secteur privé \(B2G\)
+
+**Recommandation n° 34** : Clarifier le régime juridique de la réquisition pour permettre à la puissance publique d’accéder à des données du secteur privé en cas de motif impérieux d’intérêt général et d’urgence
+
+**Recommandation n° 35** : Confier au réseau de l’AGDAC et des AMDAC une mission de facilitation et de médiation de l’accès et de l’utilisation des données du secteur privé par le secteur public \(B2G\), en lien avec la direction générale des entreprises \(DGE\)
+
+**Recommandation n° 36** : Garantir l’effectivité des dispositions relatives aux données d’intérêt général de la loi pour une République numérique qui rencontrent des difficultés d’application :
+
+* en matière de données détenues par les concessionnaires et délégataires du service public \(clausiers types pour les acteurs publics\)
+* en matière d’utilisation des données privées à des fins statistiques, étudier l’opportunité d’élargir l’article 19 à certains services fondés sur les données
+
+## Partage de données entre acteurs privés \(B2B\)
+
+**Recommandation n° 37** : Développer le partage de données privées au service d’intérêts partagés \(B2B\) au sein des comités stratégiques de filières, dans les appels à projets publics \(PIA\), et en soutenant les initiatives associatives et privées
+
