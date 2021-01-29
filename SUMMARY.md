@@ -39,6 +39,7 @@
 
 * [Recommandations x ANCT](rapport-bothorel/untitled/README.md)
   * [Recommandations \[version originale\]](rapport-bothorel/untitled/recommandations-version-originale.md)
+* [La dynamique d'ouverture de données](rapport-bothorel/la-dynamique-douverture-de-donnees.md)
 
 ## OUTILS
 

@@ -1,3 +1,7 @@
+---
+description: Sélection de recommandations dont la pertinence pour l'ANCT est à analyser
+---
+
 # Recommandations x ANCT
 
 ## Mise en œuvre de l’ouverture des données et des codes sources
@@ -10,21 +14,11 @@
 
 **Recommandation n° 8** : Créer un "Open Source Program Office" \(OSPO\) ou une mission logiciels libres au sein de TECH.GOUV, chargée d’aider l’administration à ouvrir et à réutiliser les codes sources publics, d’identifier les enjeux de mutualisation et de créer des liens avec les communautés open source existantes et d’accompagner les talents français dans ce domaine
 
-**Recommandation n° 9** : Élargir et renforcer la fonction d’administrateur ministériel des données, des algorithmes et des codes sources \(AMDAC\) :
-
-* en redéfinissant leurs missions dans une fiche de poste type
-* en dotant les AMDAC d'une lettre de mission signée par les ministres concernés après consultation des directions générales et de la DINUM
-* en s’assurant que l’AMDAC a des moyens d’intervention suffisants
-* en systématisant des formations conjointes entre AMDAC et délégués à la protection des données
-
 **Recommandation n° 10** : Confier à l’ANCT une mission d’accompagnement des collectivités territoriales dans la publication des données et des codes sources via des programmes cofinancés entre État et régions
 
 ## Droit et régulation
 
-**Recommandation n° 15** : Associer l’ANSSI à la mise en œuvre de la politique d’ouverture des données et des codes sources afin d’assurer que cette politique n’entre pas en contradiction avec les impératifs de sécurité des systèmes d’information :    
-
-* prévoir que la CADA et la CNIL puissent saisir l’ANSSI pour avis quand il y a un doute sérieux en matière de sécurité des systèmes d’information ;
-* prévoir la possibilité, pour l’AGDAC de solliciter l’ANSSI pour un audit de bibliothèques et de logiciels libres sensibles
+**Recommandation n° 15** : Associer l’ANSSI à la mise en œuvre de la politique d’ouverture des données et des codes sources afin d’assurer que cette politique n’entre pas en contradiction avec les impératifs de sécurité des systèmes d’information \(...\) 
 
 **Recommandation n° 16** : Vérifier que la loi garantit l’ouverture de toutes les données de services publics mis en œuvre par des acteurs privés \(professions réglementées de la justice notamment\)
 
@@ -33,12 +27,6 @@
 **Recommandation n° 17** : Développer une politique de formation de la fonction publique plus ambitieuse sur les enjeux du numérique \(obligation de formation des cadres dirigeants aux enjeux du numérique, séminaires de cadres dirigeants, offre de formation pour tous les niveaux hiérarchiques, plans de formation ministériels complémentaires à l’offre interministérielle, modules dans l’ensemble des cursus de formation de la fonction publique\)
 
 **Recommandation n° 18** : Poursuivre les travaux relatifs à la gestion des emplois et des compétences du numérique et structurer dans la formation initiale une filière technique de la fonction publique pour les métiers experts du numérique, en créant des parcours pour les corps techniques et en pérennisant en CDI les agents contractuels apportant des compétences non disponibles dans les corps existants
-
-**Recommandation n° 19** : Diversifier les parcours des administrateurs et des attachés de l’INSEE dans l’ensemble des administrations, au-delà des services statistiques ministériels, et valoriser le travail et la carrière des agents choisissant ces parcours
-
-**Recommandation n° 20** : Accroître l’attractivité de l’État pour les métiers du numérique en tension \(rendre le référentiel de rémunération obligatoire, développer la communication auprès des formations spécialisées\)
-
-**Recommandation n° 21** : Passer à l’échelle et inscrire dans la durée le programme d’entrepreneurs d’intérêt général
 
 **Recommandation n° 22** : Proposer une offre de formation dédiée aux élus sur les enjeux de la donnée et des codes sources dans les politiques publiques
 
@@ -56,12 +44,6 @@
 
 **Recommandation n° 27** : Encourager la création de "hubs" sectoriels ou intersectoriels, selon des modalités adaptées à chaque secteur, et dans des conditions assurant leur interopérabilité
 
-**Recommandation n° 28** : Créer un dispositif de bac à sable expérimental permettant à la CNIL de déroger aux textes existants pour autoriser la réutilisation de données personnelles dans des jeux d’apprentissage d’algorithmes d’intelligence artificielle, et leur conservation pour une durée plus longue que celle autorisée lors de leur collecte initiale
-
-**Recommandation n° 29** : Mettre en œuvre les dispositifs techniques permettant d’utiliser la procédure d’appariement de fichiers sur la base du code statistique non signifiant à des fins de statistique publique et de recherche scientifique et historique
-
-**Recommandation n° 30** : Améliorer la prise en charge des demandes des chercheurs, en associant les AMDAC et les SSM \(délai de réponse obligatoire, création d’un recours, recours à la consultation du comité du secret statistique à titre facultatif\)
-
 ## Données d’intérêt général
 
 **Recommandation n° 31** : Privilégier une approche incitative et concertée, le recours à d’éventuels dispositifs coercitifs devant être dûment justifié et faire l’objet d’une évaluation préalable
@@ -71,10 +53,6 @@
 **Recommandation n° 33** : Encourager les initiatives de portabilité citoyenne des données au service de l’intérêt général, notamment par l’organisation de campagnes de mobilisation citoyenne
 
 ## Utilisation par le secteur public de données issues du secteur privé \(B2G\)
-
-**Recommandation n° 34** : Clarifier le régime juridique de la réquisition pour permettre à la puissance publique d’accéder à des données du secteur privé en cas de motif impérieux d’intérêt général et d’urgence
-
-**Recommandation n° 35** : Confier au réseau de l’AGDAC et des AMDAC une mission de facilitation et de médiation de l’accès et de l’utilisation des données du secteur privé par le secteur public \(B2G\), en lien avec la direction générale des entreprises \(DGE\)
 
 **Recommandation n° 36** : Garantir l’effectivité des dispositions relatives aux données d’intérêt général de la loi pour une République numérique qui rencontrent des difficultés d’application :
 
