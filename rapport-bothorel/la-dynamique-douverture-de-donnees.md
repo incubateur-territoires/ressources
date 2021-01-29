@@ -35,45 +35,26 @@ Les données sont parfois ouvertes sans être rendues accessibles
 
 **Au sein des collectivités, une dynamique portée par celles qui bénéficient d’un projet et qui en ont la capacité**
 
-* 4 600 collectivités locales \(communes, EPCI, départements et régions\) soumises aux obligations d’ouverture des données et des codes sources énoncées par la loi pour une République numérique. 
-
-Plusieurs collectivités ont souligné l’importance de la place de la donnée dans le pilotage des politiques locales. Ainsi, un élu souligne qu’"il faut penser la question de la donnée comme un facteur de développement territorial et pas nécessairement comme un acte de modernisation nationale".
-
-Néanmoins, la mise en œuvre des obligations prévues par la loi pour une République numérique montre des disparités importantes entre les collectivités territoriales, qui s’expliquent principalement par les moyens dont elles disposent.
-
-Pour mettre en œuvre cette obligation, les collectivités peuvent être accompagnées par l’association Opendata France : créée le 9 octobre 2013 à Toulouse, elle regroupe et soutient les collectivités engagées activement dans une démarche d’ouverture des données publiques et favorise toutes les démarches entreprises par ces collectivités dans le but de la promotion de l’open data. Pour remplir sa mission, Opendata France est financée principalement par des subventions et, pour une part croissante, par les adhésions versées par les collectivités territoriales. Ainsi, les recettes de l’association étaient composées, à fin 2019, de 67 % de subventions d’exploitation pour un montant de 182 500 € \(dont 71 % versées par l’État – au travers d’Etalab – et 18 % par la Banque des territoires de la Caisse des dépôts et consignations\) et de 32 % de cotisations des collectivités.
-
-Plus précisément, Opendata France a pu bénéficier de subventions de la part de l’État dans une logique de "projet" avec des objectifs à atteindre : à savoir, un budget de 200 000 €, au titre des mesures d’accompagnement de la loi pour une République numérique, puis un budget de 160 000 €, affecté à la conception et la réalisation d’un outil de validation des données publique \(Validata\), et enfin, un budget de 120 000 € pour le concours à l’entretien des dispositifs de soutien des collectivités. L’association regrette ainsi l’interruption des soutiens financiers de l’État en 2020, et son effet sur l’évolution des ressources et des projets à destination des collectivités, en particulier des plus petites. Une contribution financière de la part des associations des collectivités pourrait aussi répondre aux besoins.
+* 4 600 collectivités locales \(communes, EPCI, départements et régions\) soumises aux obligations d’ouverture des données et des codes sources énoncées par la loi pour une République numérique.
+* Prise de conscience croissante de collectivités, concernant l’importance de la place de la donnée dans le pilotage des politiques locales. Selon un élu consulté : "_penser la question de la donnée comme un facteur de développement territorial et pas nécessairement comme un acte de modernisation nationale_".
+* Disparités importantes entre les collectivités territoriales, qui s’expliquent principalement par les moyens dont elles disposent.
+* Accompagnement par l’association Opendata France qui "regroupe et soutient les collectivités engagées activement dans une démarche d’ouverture des données publiques et favorise toutes les démarches entreprises par ces collectivités dans le but de la promotion de l’open data". 
+* Accompagnement de l'ANCT est encore à concrétiser :
 
 > "Quant à l’Agence nationale de la cohésion des territoires \(ANCT\), elle n’a pas encore investi cette politique, considérant que la politique d’ouverture des données et des codes sources relève de la mission d’Etalab. Créée par la loi du 22 juillet 2019 et mise en place au 1er janvier 2020, l’ANCT a pour mission d’accompagner les collectivités territoriales dans la mise en œuvre de leurs projets de politique publique. En revanche, l’ANCT souhaite davantage se positionner sur une offre de services aux collectivités territoriales, visant à développer la culture de la donnée, en l’orientant sur le service aux usagers et le développement économique. Ainsi la start-up d’Etat "bases adresses locales" incubée au sein de l’incubateur des territoires de l’ANCT propose un service aux collectivités afin de faire un lien entre leurs bases adresses locales et la base adresse nationale figurant parmi les données de référence du service public de la donnée. Elle utilise pour cela les ressources développées au sein d’Etalab."
 
-S’agissant plus particulièrement de la problématique des données personnelles, la CNIL a publié un certain nombre de fiches pratiques à destination des collectivités territoriales afin de faciliter la mise en œuvre de cette politique.
-
-L’observatoire Opendata des territoires, co-financé par la Caisse des dépôts et consignations, Etalab \(jusqu’en 2019\) et l’association Opendata France, évalue l’ouverture des données dans les collectivités territoriales sur les dimensions quantitatives et qualitatives. L’association publie ainsi chaque année une analyse de l’état de l’ouverture des données dans les territoires qui s’appuie sur les chiffres et les indicateurs, collectés et élaborés en temps réel, et publiés sur le site de l’observatoire. Les résultats publiés en octobre 2020 sur le site d’Opendata France\[11\] montrent une vraie dynamique dans la mise en œuvre de la politique d’ouverture des données.
-
-En octobre 2020, 589 collectivités territoriales publiaient des données en open data. En ajoutant 175 structures publiques ou privées, partenaires des collectivités et produisant des données dans le cadre d’une mission de service public, on compte 764 acteurs territoriaux engagés dans cette dynamique. Le graphique ci-dessous montre l’évolution du nombre de collectivités territoriales engagées dans une démarche d’open data, selon le type de collectivité \(régions, départements, EPCI et communes\).
-
-Évolution du nombre de collectivités engagées dans une démarche d’open data
-
-Source : Observatoire Opendata des territoires, octobre 2020
-
-La dynamique d’ouverture des données est cependant différente selon le type et la taille des collectivités territoriales : plus la taille de la collectivité est petite, moins elle est engagée dans une démarche d’ouverture des données, ce qui s’explique principalement par les moyens nécessaires à la mise en œuvre d’une telle politique.
-
-L’ensemble des régions proposent désormais des jeux de données en open data, même si cela ne doit pas masquer des disparités dans la quantité de jeux de données mise à dispositions, "de quelques unités à plusieurs centaines de jeux de données" selon Opendata France. Les départements quant à eux poursuivent leur dynamique d’ouverture des jeux de données : 60% d’entre eux sont ainsi engagés dans cette démarche.
-
-S’agissant des communes et des EPCI, près de 90 % des collectivités ne respectent pas leurs obligations \(cf. graphique\) :
-
-‒       plus de 50 % des collectivités de plus de 100 000 habitants sont ouvertes \(ce pourcentage intègre les métropoles ouvertes à 82 % et les plus grosses intercommunalités\) ;
-
-‒       en dessous de 100 000 habitants, moins de 8 % collectivités publient des données. En particulier, seules 22 % des collectivités de taille entre 20 000 et 80 000 \(soit 89 sur 410\) sont ouvertes ;
-
-‒       s’agissant des communes et EPCI de moins de 3 500 habitants, 86 collectivités sont comptabilisées, ce qui témoigne soit d’une volonté locale très importante compte tenu de l’absence d’obligation légale les concernant, soit d’un accompagnement systématique par une structure de plus haut niveau \(métropole, SMI ou département\).
-
-Répartition des communes de moins de 100 000 habitants mettant en œuvre une politique d’open data \(en octobre 2020\)
-
-Source : Observatoire Opendata des territoires, octobre 2020
-
-In fine, selon les personnes rencontrées par la mission, ces résultats mitigés pour les collectivités d’une taille plus réduite s’expliquent autant par un manque d'acculturation numérique, la question de l'open data étant parfois vécue comme une obligation légale qui "tombe du ciel", que par un véritable besoin d'un accompagnement et de mutualisation des moyens.
+* Accompagnement spécifique par la CNIL sur la problématique des données personnelles \(fiches pratiques à destination des collectivités territoriales\).
+* En octobre 2020, 764 acteurs territoriaux publiaient des données en open data
+  *  589 collectivités territoriales 
+  * 175 structures publiques ou privées, partenaires des collectivités et produisant des données dans le cadre d’une mission de service public
+* L’ensemble des régions proposent désormais des jeux de données en open data \(disparités dans la quantité de jeux de données mise à dispositions\)
+* 60% des départements sont engagés dans une démarche d’ouverture des jeux de données 
+* Communes et EPCI : près de 90 % des collectivités ne respectent pas leurs obligations :
+  * Plus de 50 % des collectivités de plus de 100.000 hab sont ouvertes \(ce pourcentage intègre les métropoles ouvertes à 82 % et les plus grosses intercommunalités\) ;
+  * Moins de 8 % collectivités de moins de 100.000 hab publient des données. 
+  * En particulier, seules 22 % des collectivités entre 20.000 et 80.000 \(soit 89 sur 410\) sont ouvertes.
+* Communes et EPCI de moins de 3 500 habitants : 86 collectivités sont comptabilisées \(soit volonté locale très importante, soit d’un accompagnement systématique par une structure de plus haut niveau --métropole, SMI ou département\).
+* Manque d'acculturation numériques.
 
 **Le manque de mutualisation se retrouve dans le dénombrement des plateformes de publication.**
 
