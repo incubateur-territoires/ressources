@@ -42,6 +42,7 @@
 * [Ouverture de données](rapport-bothorel/la-dynamique-douverture-de-donnees.md)
 * [Ouverture de codes sources \[DRAFT\]](rapport-bothorel/ouverture-de-codes-sources-draft.md)
 * [Formation et acculturation](rapport-bothorel/formation-et-acculturation.md)
+* [Portage politique](rapport-bothorel/portage-politique.md)
 
 ## OUTILS
 
