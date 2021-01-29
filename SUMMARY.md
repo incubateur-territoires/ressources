@@ -43,6 +43,7 @@
 * [Ouverture de codes sources \[DRAFT\]](rapport-bothorel/ouverture-codes-sources.md)
 * [Formation et acculturation](rapport-bothorel/formation-et-acculturation.md)
 * [Portage politique](rapport-bothorel/portage-politique.md)
+* [Besoins opérationnels](rapport-bothorel/besoins-operationnels.md)
 
 ## OUTILS
 
