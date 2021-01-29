@@ -1,5 +1,7 @@
 ---
-description: Sélection de recommandations dont la pertinence pour l'ANCT est à analyser
+description: >-
+  Sélection de recommandations issues du Rapport Bothorel, et dont la pertinence
+  pour l'ANCT est à analyser
 ---
 
 # Recommandations x ANCT

@@ -39,8 +39,8 @@
 
 * [Recommandations x ANCT](rapport-bothorel/untitled/README.md)
   * [Recommandations \[version originale\]](rapport-bothorel/untitled/recommandations-version-originale.md)
-* [Ouverture de données](rapport-bothorel/ouverture-de-donnees.md)
-* [Cas d'usage : réutilisation de données publiques](rapport-bothorel/cas-dusage-reutilisation-de-donnees-publiques.md)
+* [Ouverture de données](rapport-bothorel/ouverture-de-donnees/README.md)
+  * [Cas d'usage : réutilisation de données publiques](rapport-bothorel/ouverture-de-donnees/cas-dusage-reutilisation-de-donnees-publiques.md)
 * [Ouverture de codes sources \[DRAFT\]](rapport-bothorel/ouverture-codes-sources.md)
 * [Formation et acculturation](rapport-bothorel/formation-et-acculturation.md)
 * [Portage politique](rapport-bothorel/portage-politique.md)

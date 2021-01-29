@@ -30,7 +30,7 @@ La perspective de la mission :
 
 ## **Soutenir les collectivités locales dans la mise en œuvre de leur politique d’ouverture des données et des codes sources**
 
-Les collectivités locales de plus petite taille peinent à mettre en œuvre une politique d’ouverture des données et des codes sources \(cf. [ici](ouverture-de-donnees.md)\).
+Les collectivités locales de plus petite taille peinent à mettre en œuvre une politique d’ouverture des données et des codes sources \(cf. [ici](ouverture-de-donnees/)\).
 
 > La loi NOTRe de 2015 confie aux régions "la coordination, au moyen d'une plateforme de services numériques qu'elle anime, de l'acquisition et de la mise à jour des données géographiques de référence nécessaires à la description détaillée de son territoire ainsi qu'à l'observation et à l'évaluation de ses politiques territoriales, données dont elle favorise l'accès et la réutilisation". Ainsi, à chaque région est associée une ou deux plateformes selon que l’État et la région se sont entendus ou non sur l’infrastructure, y compris sur la gouvernance.
 
