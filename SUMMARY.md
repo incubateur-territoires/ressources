@@ -42,7 +42,7 @@
 * [Ouverture de données](rapport-bothorel/ouverture-de-donnees/README.md)
   * [Cas d'usage : réutilisation de données publiques](rapport-bothorel/ouverture-de-donnees/cas-usage-reutilisation-donnees-publiques.md)
 * [Ouverture de codes sources \[DRAFT\]](rapport-bothorel/ouverture-codes-sources/README.md)
-  * [Cas d'usage](rapport-bothorel/ouverture-codes-sources/cas-dusage.md)
+  * [Cas d'usage : trois logiciels mutualisant des données de territoires](rapport-bothorel/ouverture-codes-sources/cas-dusage.md)
 * [Formation et acculturation](rapport-bothorel/formation-et-acculturation.md)
 * [Portage politique](rapport-bothorel/portage-politique.md)
 * [Besoins opérationnels \[DRAFT\]](rapport-bothorel/besoins-operationnels.md)

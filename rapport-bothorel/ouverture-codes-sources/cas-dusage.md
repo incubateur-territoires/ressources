@@ -4,7 +4,7 @@ description: >-
   acteurs publics dans le domaine de l’information géographique
 ---
 
-# Cas d'usage
+# Cas d'usage : trois logiciels mutualisant des données de territoires
 
 ## **Description des trois outils**
 
