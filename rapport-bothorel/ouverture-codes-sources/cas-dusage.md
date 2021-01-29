@@ -10,7 +10,7 @@ description: >-
 
 ### **Geotrek**
 
-En 2011, les parcs nationaux des Ecrins et du Mercantour se sont associés pour développer une application web de gestion et de valorisation de leurs sentiers avec un budget de 70 000 €. Ils ont retenu des technologies libres et une approche générique pour réaliser un outil qui pourrait servir à d’autres structures, et choisi de publier l’application sous licence libre pour en faciliter la réutilisation. Avec le prestataire, ils ont aussi pris soin de la documenter et de communiquer sur celle-ci sous le nom de Geotrek pour la faire connaître et la partager.
+En 2011, les parcs nationaux des Ecrins et du Mercantour se sont associés pour développer une application web de gestion et de valorisation de leurs sentiers avec un budget de 70.000 €. Ils ont retenu des technologies libres et une approche générique pour réaliser un outil qui pourrait servir à d’autres structures, et choisi de publier l’application sous licence libre pour en faciliter la réutilisation. Avec le prestataire, ils ont aussi pris soin de la documenter et de communiquer sur celle-ci sous le nom de Geotrek pour la faire connaître et la partager.
 
 Huit ans après sa première version, l’application est utilisée par plus d’une centaine de structures en France et commence à être déployée à l’étranger. Au-delà du partage de l’outil Geotrek, ce projet a permis de fédérer des projets de différents territoires et de grouper des financements, pour mieux gérer et valoriser leurs territoire, leurs randonnées et leur patrimoine, et de mieux partager et diffuser ces données à différents niveaux \(portails touristiques locaux, systèmes d’information touristique régionaux, OSM, IGN, data.gouv.fr\).
 
