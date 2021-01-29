@@ -56,52 +56,30 @@ Les données sont parfois ouvertes sans être rendues accessibles
 * Communes et EPCI de moins de 3 500 habitants : 86 collectivités sont comptabilisées \(soit volonté locale très importante, soit d’un accompagnement systématique par une structure de plus haut niveau --métropole, SMI ou département\).
 * Manque d'acculturation numériques.
 
-**Le manque de mutualisation se retrouve dans le dénombrement des plateformes de publication.**
+**Plateformes de publication**
 
-Ainsi, l’observatoire dénombrait 180 plateformes de publication territoriales en octobre 2020 dont 6 % sur un portail web "classique", 29 % sur une plateforme d’information géographique, et 64 % sur un portail open data dédié ou mutualisé. La multiplication des portails reflète aussi l’enjeu de visibilité et de communication qu’ils représentent pour la collectivité productrice des données. La plateforme data.gouv.fr reste la principale plateforme d’hébergement avec 41 % des collectivités, suivie des plateformes sous technologie propriétaire comme OpenDataSoft \(28 %\) ou libre comme CKAN \(14 %\).
-
-Par ailleurs, la majorité \(64 %\) des acteurs publient leurs données sur un portail propre, témoignant du faible effort de mutualisation des moyens des collectivités territoriales néanmoins en augmentation par rapport à 2019. Ainsi, 36 % des collectivités ont adopté des plateformes mutualisées \(29 %\) ou en partenariat avec des services déconcentrés de l’État \(7 %\), permettant de réduire les coûts et les délais tout en favorisant la visibilité et l’interopérabilité des données qu’elles publient.
-
-Plusieurs régions se sont cependant lancées dans une démarche de mutualisation des ressources sur leur territoire ou de rassemblement des acteurs autour de la donnée : on peut notamment citer les démarches des régions Occitanie, Bretagne et Normandie.
-
-La région Occitanie fait preuve d’un grand dynamisme dans la mise en œuvre de la politique d’ouverture des données, tirée par deux grandes métropoles \(Toulouse et Montpellier\) et de trois départements \(Haute-Garonne, Hérault, Hautes-Pyrénées\) qui accompagnent l’ouverture des données de petites collectivités dans leur périmètre de compétence. Ainsi, un système de subsidiarité à trois étages a été mis en place pour que les petites communes parviennent à mettre en œuvre une politique d’open data : la région soutient les départements, le département soutient les communes membres en publiant leurs données et l’EPCI \(Toulouse par exemple\) publie les données des communes, membres de l’EPCI. En effet, l’enjeu est aussi de ne pas s’arrêter aux frontières administratives afin d’avoir la couverture la plus complète d'un territoire : il s’agit d’avoir une couverture des territoires urbains, péri-urbains et ruraux, permettant de développer des modèles économiques utilisant ces données.
-
-La région Normandie constitue un autre exemple intéressant de mutualisation au travers du Datalab Normandie qui rassemble, au sein d’un consortium, un écosystème d’acteurs, aussi bien publics que privés, pour utiliser de la donnée à travers une plateforme d’échange et de partage. Ce programme d'action bénéficie d’un financement européen \(2,5M€ issus du FEDER\). Différentes actions et expérimentations ont été lancées telles que la création d'un "data emploi formation " pour faciliter le pilotage sur l'appareil de formation qui est une compétence de la région, et des actions avec l'agence de l'orientation pour la promotion des métiers de la donnée.
-
-La région Bretagne promeut une approche partenariale à l’échelle régionale entre acteurs publics \(GéoBretagne, Service Public Métropolitain de la Donnée de Rennes, DATARMOR-Pôle de Calcul et de Données pour la Mer, Portails Open Data, EskemmData...\) pour contribuer collectivement au service public de la donnée et s’engager dans une démarche de régulation de l’écosystème du territoire au travers des actions suivantes\[12\] :
-
-‒       "définir les cas d’usages communs prioritaires et les données de référence associées ;
-
-‒       proposer, en complément, des services d’analyse, de prospective et de croisement de données ;
-
-‒       investir dans des architectures techniques partagées proposant : la mise à disposition de données fondées sur des standards en API et en téléchargement, des mécanismes de participation des utilisateurs à la montée en qualité des données et dotées de mécanismes d’identification, de sécurisation et de contrôle d’accès pour certains usages ;
-
-‒       intégrer à l’échelle régionale de nouvelles formes de régulation de l’économie et d’aménagement du territoire par la donnée."
-
-Il convient par ailleurs de souligner la montée en puissance des portails nationaux thématiques, alimentés par les acteurs territoriaux qui publient soit localement, soit sur un site national mutualisé, des données normalisées dans l’objectif d’un référencement maximal. À titre d’exemple, le portail transport.data.gouv.fr agrège de nombreuses données de mobilité, produites par les collectivités et leurs délégataires \(autorité organisatrice de la mobilité, AOM\) : près de 218 jeux de données sur les 337 AOM françaises, soit 64 %, étaient référencées en octobre 2020 pour les données de transport en commun. Au 4 décembre 2020, 10 159 collectivités ont déposé leurs documents d’urbanisme \(PLUi, PLU, cartes communales\) sur le Géoportail de l’urbanisme mis en place par l’ordonnance n°2013-1184 actée par la loi ALUR.  
-
-
-\[1\] Source : Datactivist \(catalogue data.gouv.fr, Wikidata, recodage manuel, 24 septembre 2020\).
-
-\[2\] Enquête usagers conduite par Etalab de juin à septembre 2020.
-
-\[3\] Source : Datactivist \(catalogue data.gouv.fr, Wikidata, recodage manuel, 24 septembre 2020\).
-
-\[4\] Source : Datactivist \(catalogue data.gouv.fr, Wikidata, recodage manuel, 24 septembre 2020\).
-
-\[5\] Audition de la CADA par la mission.
-
-\[6\] Source : Datactivist \(catalogue data.gouv.fr, Wikidata, recodage manuel, 24 septembre 2020\).
-
-\[7\] La mission a transmis un questionnaire au mois de septembre et d’octobre 2020 à plusieurs administrations centrales, opérateurs de l’État, notamment dans les principaux ministères concernés par la lettre de mission \(ministères sociaux, ministères économiques et financiers, ministère de la transition écologique, ministère de l’enseignement supérieur et de la recherche, ministère de l’éducation nationale, ministère de l’intérieur\) ainsi qu’aux administrateurs ministériels de la donnée des ministères pour lesquels une collecte d’informations plus complète n’était pas possible \(affaires étrangères, agriculture, culture, défense, justice, notamment\).
-
-\[8\] En 2020, 18 % des jeux de données des administrations déconcentrées ont été publiés depuis moins de 3 ans \(source : Datactivist\).
-
-\[9\] Source : Datactivist \(catalogue data.gouv.fr, Wikidata, recodage manuel, 24 septembre 2020\).
-
-\[10\] Source : Observatoire Opendata des territoires
-
-\[11\] https://www.opendatafrance.net/2020/10/15/observatoire-open-data-des-territoires-edition-oct-2020/
-
-\[12\] Feuille de route de la Région Bretagne en faveur de stratégies numériques "S’engager en faveur de stratégies numériques responsables pour le territoire breton", février 2020.
+* En octobre 2020 : 180 plateformes de publication territoriales
+  * 6 % sur un portail web "classique"
+  * 29 % sur une plateforme d’information géographique
+  * 64 % sur un portail open data dédié ou mutualisé
+* Enjeu de visibilité et de communication pour la collectivité productrice des données
+  * 41% des collectivités publient sur data.gouv.fr
+  * 28% sur des plateformes sous technologie propriétaire comme OpenDataSoft \(28 %\)
+  * 14% sur des plateformes ouvertes comme CKAN \(14 %\).
+* La majorité \(64 %\) des acteurs publient leurs données sur un portail propre \(faible effort de mutualisation des moyens des collectivités territoriales\)
+  *  36 % des collectivités ont adopté des plateformes mutualisées \(29 %\) ou en partenariat avec des services déconcentrés de l’État \(7 %\)
+  * Réduction des coûts et délais, favorise la visibilité et l’interopérabilité des données publiées.
+* Plusieurs régions \(Occitanie, Bretagne et Normandie\) dans une démarche de mutualisation des ressources sur leur territoire ou de rassemblement des acteurs autour de la donnée 
+  * Occitanie : deux grandes métropoles \(Toulouse et Montpellier\) et de trois départements \(Haute-Garonne, Hérault, Hautes-Pyrénées\) accompagnent l’ouverture des données de petites collectivités dans leur périmètre de compétence. 
+    * Système de subsidiarité à trois étages pour que les petites communes parviennent à mettre en œuvre une politique d’open data : la région soutient les départements, le département soutient les communes membres en publiant leurs données et l’EPCI \(Toulouse par exemple\) publie les données des communes, membres de l’EPCI.
+    *  Enjeu : ne pas s’arrêter aux frontières administratives afin d’avoir une couverture des territoires urbains, péri-urbains et ruraux.
+  * Datalab Normandie : consortium rassemblant un écosystème d’acteurs publics et privés pour utiliser de la donnée à travers une plateforme d’échange et de partage. 
+  * Bretagne : approche partenariale à l’échelle régionale entre acteurs publics \(GéoBretagne, Service Public Métropolitain de la Donnée de Rennes, DATARMOR-Pôle de Calcul et de Données pour la Mer, Portails Open Data, EskemmData...\) pour contribuer collectivement au service public de la donnée et s’engager dans une démarche de régulation de l’écosystème du territoire au travers des actions suivantes : 
+    * définir les cas d’usages communs prioritaires et les données de référence associées ;
+    * proposer des services d’analyse, de prospective et de croisement de données ;
+    * investir dans des architectures techniques partagées proposant : la mise à disposition de données fondées sur des standards en API et en téléchargement, des mécanismes de participation des utilisateurs à la montée en qualité des données et dotées de mécanismes d’identification, de sécurisation et de contrôle d’accès pour certains usages ; 
+    * intégrer à l’échelle régionale de nouvelles formes de régulation de l’économie et d’aménagement du territoire par la donnée.
+* Montée en puissance des portails nationaux thématiques alimentés par les acteurs territoriaux qui publient soit localement, soit sur un site national mutualisé, des données normalisées dans l’objectif d’un référencement maximal. 
+  * Portail transport.data.gouv.fr : données de mobilité produites par les collectivités et leurs délégataires
+  * Géoportail de l’urbanisme : documents d’urbanisme \(PLUi, PLU, cartes communales\)  
 
