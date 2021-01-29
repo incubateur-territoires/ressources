@@ -1,11 +1,11 @@
 ---
 description: >-
-  Résumé à partir du Rapport : "2.2. La dynamique d’ouverture a nettement
-  ralenti depuis 2017 et seule une minorité d’acteurs publics se conforme à la
-  loi pour une République numérique"
+  À partir du Rapport : "2.2. La dynamique d’ouverture a nettement ralenti
+  depuis 2017 et seule une minorité d’acteurs publics se conforme à la loi pour
+  une République numérique"
 ---
 
-# La dynamique d'ouverture de données
+# Ouverture de données
 
 * Essoufflement de la dynamique d’ouverture des données et codes sources publics générée par la loi pour une République numérique.
 * Pas de recensement exhaustif à jour des données et des codes sources publics qui permettrait de mesurer le taux d’ouverture de ces derniers. 

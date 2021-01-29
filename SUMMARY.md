@@ -39,7 +39,9 @@
 
 * [Recommandations x ANCT](rapport-bothorel/untitled/README.md)
   * [Recommandations \[version originale\]](rapport-bothorel/untitled/recommandations-version-originale.md)
-* [La dynamique d'ouverture de données](rapport-bothorel/la-dynamique-douverture-de-donnees.md)
+* [Ouverture de données](rapport-bothorel/la-dynamique-douverture-de-donnees.md)
+* [Ouverture de codes sources \[DRAFT\]](rapport-bothorel/ouverture-de-codes-sources-draft.md)
+* [Formation et acculturation](rapport-bothorel/formation-et-acculturation.md)
 
 ## OUTILS
 
