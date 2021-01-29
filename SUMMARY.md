@@ -48,6 +48,7 @@
 * [Besoins opérationnels \[DRAFT\]](rapport-bothorel/besoins-operationnels.md)
 * [APIs](rapport-bothorel/apis.md)
 * [Hubs de partage](rapport-bothorel/hubs-de-partage.md)
+* [Données d'intérêt général \[DRAFT\]](rapport-bothorel/donnees-dinteret-general-draft.md)
 
 ## OUTILS
 
