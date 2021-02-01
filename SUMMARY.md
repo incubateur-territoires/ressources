@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home \[temp : notes au fil de l'eau\]](README.md)
+* [Ressources pour les collectivités territoriales](README.md)
 * [Sources](sources.md)
 
 ## COMMUNS NUMÉRIQUES

@@ -1,20 +1,14 @@
----
-description: '[Home Page]'
----
+# Ressources pour les collectivités territoriales
 
-# Home \[temp : notes au fil de l'eau\]
+Espace de l'Incubateur des Territoires pour les collectivités territoriales et leur écosystème, ce wiki est un WIP.
 
-Engagement avec les visiteurs
+Vous y trouvez actuellement :
 
-* une simple adresse email ressources@... pour recueillir les commentaires?
-* une option de feedback par document ?
-* on ouvre la possibilité de suggérer des modifs directement sur les docs \(markup\) et on modère?
+Un espace 'communs numériques'
 
-Voudra-t-on se garder la possibilité de traduire certaines pages ? coopération/visibilité 
+Un espace regroupant des éléments du Rapport Bothorel
 
 
-
-Utilisation de mediawiki + semantic mediawiki si le contenu 'enfle' et qu'on doit améliorer la capacité de chercher et découvrir ?
 
 
 
