@@ -15,10 +15,10 @@ description: >-
 
 > "Depuis 2018, les collectivités représentent une part grandissante des jeux de données publiés chaque année sur data.gouv.fr, tandis que la part des administrations centrales continue de reculer, et celle des administrations déconcentrées, majoritaire entre 2015 et 2017, diminue fortement. La portée réelle de ces évolutions statistiques doit cependant être relativisée, compte tenu d’un effet de nombre, les collectivités étant plus nombreuses que les administrations centrales, et le nombre de jeux de données publiés n’ayant que peu à voir avec la dynamique d’ensemble d’une catégorie d’acteurs publics."
 
-Les données sont parfois ouvertes sans être rendues accessibles 
+Les données sont parfois ouvertes sans être rendues accessibles
 
 * Qualité et accessibilité en demi-teinte de l’offre d'open data.
-*  Au-delà de la mise à disposition des bases de données, besoin d'accompagner cette publication des informations et des outils indispensables à l’appropriation et à la bonne réutilisation de la donnée.
+* Au-delà de la mise à disposition des bases de données, besoin d'accompagner cette publication des informations et des outils indispensables à l’appropriation et à la bonne réutilisation de la donnée.
 * Parmi les marges de progression :
   * la fraîcheur des données \(52 % des jeux de données n’ont pas été mis à jour depuis plus d’un an\),
   * la disponibilité de leurs séries temporelles, 
@@ -45,7 +45,7 @@ Les données sont parfois ouvertes sans être rendues accessibles
 
 * Accompagnement spécifique par la CNIL sur la problématique des données personnelles \(fiches pratiques à destination des collectivités territoriales\).
 * En octobre 2020, 764 acteurs territoriaux publiaient des données en open data
-  *  589 collectivités territoriales 
+  * 589 collectivités territoriales 
   * 175 structures publiques ou privées, partenaires des collectivités et produisant des données dans le cadre d’une mission de service public
 * L’ensemble des régions proposent désormais des jeux de données en open data \(disparités dans la quantité de jeux de données mise à dispositions\)
 * 60% des départements sont engagés dans une démarche d’ouverture des jeux de données 
@@ -67,12 +67,12 @@ Les données sont parfois ouvertes sans être rendues accessibles
   * 28% sur des plateformes sous technologie propriétaire comme OpenDataSoft \(28 %\)
   * 14% sur des plateformes ouvertes comme CKAN \(14 %\).
 * La majorité \(64 %\) des acteurs publient leurs données sur un portail propre \(faible effort de mutualisation des moyens des collectivités territoriales\)
-  *  36 % des collectivités ont adopté des plateformes mutualisées \(29 %\) ou en partenariat avec des services déconcentrés de l’État \(7 %\)
+  * 36 % des collectivités ont adopté des plateformes mutualisées \(29 %\) ou en partenariat avec des services déconcentrés de l’État \(7 %\)
   * Réduction des coûts et délais, favorise la visibilité et l’interopérabilité des données publiées.
 * Plusieurs régions \(Occitanie, Bretagne et Normandie\) dans une démarche de mutualisation des ressources sur leur territoire ou de rassemblement des acteurs autour de la donnée 
   * Occitanie : deux grandes métropoles \(Toulouse et Montpellier\) et de trois départements \(Haute-Garonne, Hérault, Hautes-Pyrénées\) accompagnent l’ouverture des données de petites collectivités dans leur périmètre de compétence. 
     * Système de subsidiarité à trois étages pour que les petites communes parviennent à mettre en œuvre une politique d’open data : la région soutient les départements, le département soutient les communes membres en publiant leurs données et l’EPCI \(Toulouse par exemple\) publie les données des communes, membres de l’EPCI.
-    *  Enjeu : ne pas s’arrêter aux frontières administratives afin d’avoir une couverture des territoires urbains, péri-urbains et ruraux.
+    * Enjeu : ne pas s’arrêter aux frontières administratives afin d’avoir une couverture des territoires urbains, péri-urbains et ruraux.
   * Datalab Normandie : consortium rassemblant un écosystème d’acteurs publics et privés pour utiliser de la donnée à travers une plateforme d’échange et de partage. 
   * Bretagne : approche partenariale à l’échelle régionale entre acteurs publics \(GéoBretagne, Service Public Métropolitain de la Donnée de Rennes, DATARMOR-Pôle de Calcul et de Données pour la Mer, Portails Open Data, EskemmData...\) pour contribuer collectivement au service public de la donnée et s’engager dans une démarche de régulation de l’écosystème du territoire au travers des actions suivantes : 
     * définir les cas d’usages communs prioritaires et les données de référence associées ;

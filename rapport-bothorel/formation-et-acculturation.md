@@ -21,8 +21,3 @@ description: >-
 **Recommandation** : Proposer une offre de formation dédiée aux élus sur les enjeux de la donnée et des codes sources dans les politiques publiques
 {% endhint %}
 
-  
-
-
-
-

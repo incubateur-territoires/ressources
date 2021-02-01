@@ -66,9 +66,7 @@ D’une part, l’utilisation des outils de la commande publique est parfois com
 
 D’autre part, l’administration privilégie, pour des motifs budgétaires, le recours à des sociétés sélectionnées par appels d’offres, au recrutement de développeurs, lorsqu’elle souhaite des évolutions en matière de logiciels libres. Pour QGIS, il y a toutefois des contributeurs importants de QGIS dans la société titulaire du marché public. Par ailleurs, le dispositif d’accompagnement a été dès le départ identifié comme un point critique pour l’adoption du logiciel QGIS par les agents. Un dispositif très complet de formation, en particulier en distanciel \(FOAD\) a été mis en place.
 
-
-
 \[1\] Circulaire du Premier ministre du 19 septembre 2019 relative aux orientations pour l’usage des logiciels libres dans l’administration.
 
-\[2\] A partir des estimations proposées sur https://www.openhub.net/p?query=geotrek
+\[2\] A partir des estimations proposées sur [https://www.openhub.net/p?query=geotrek](https://www.openhub.net/p?query=geotrek)
 

@@ -13,8 +13,6 @@ En intégrant un projet de communs, votre institution et les agents impliqués v
 | Contributeur | Qui donne a la ressource, du temps ou de la matière, par des propositions d'évolutions, des remontées de bugs, de la création de documentation. |
 | Utilisateur | Qui a l'usage final de la ressource |
 
-
-
 {% hint style="info" %}
 Source : Pro.numerique-en-commun \(en développement / màj 2020 NEC, à revérifier\)
 {% endhint %}

@@ -2,5 +2,3 @@
 
 {% page-ref page="la-rochelle-territoire-zero-carbone.md" %}
 
-
-

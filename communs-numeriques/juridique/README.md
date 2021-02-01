@@ -6,5 +6,3 @@ Droits des contributeurs
 
 Risk mngt
 
-
-

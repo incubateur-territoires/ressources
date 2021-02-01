@@ -1,23 +1,23 @@
 # Prévenir les risques
 
 {% hint style="success" %}
-Les situations ci-dessous documentent des pratiques de prévention de risque de manière générique. 
+Les situations ci-dessous documentent des pratiques de prévention de risque de manière générique.
 
 Dans le cadre d'une incubation par l'Incubateur des Territoires, cette partie est gérée par l'équipe
 {% endhint %}
 
 ## **💣** Infractions aux règles de gouvernance <a id="infractions"></a>
 
-**🥊 Le risque**  : Quelqu'un se réapproprie un commun de votre projet, en violation des mécanismes juridiques mis en place \(licence, conditions générales d’utilisation…\). _Qui active ces mécanismes en cas de suspicion d’infraction ? Selon quelles modalités : mise en demeure, dépôt de plainte… ?_
+**🥊 Le risque** : Quelqu'un se réapproprie un commun de votre projet, en violation des mécanismes juridiques mis en place \(licence, conditions générales d’utilisation…\). _Qui active ces mécanismes en cas de suspicion d’infraction ? Selon quelles modalités : mise en demeure, dépôt de plainte… ?_
 
- **👉 Les bonnes pratiques de prévention**
+**👉 Les bonnes pratiques de prévention**
 
 * Définir et attribuer un rôle de garant d’application du commun 
 * Attacher à la convention une liste claire des sanctions applicables en cas de non-respect des règles qu’il décrit.
 
 ## **💣 Ind**isponibilité <a id="disponibilite"></a>
 
-**🥊 Le risque**  : La mise en partage des ressources ne peut être opérante que si lesdites ressources sont accessibles. _Qui garantit la disponibilité du commun ? Par quels moyens ?_
+**🥊 Le risque** : La mise en partage des ressources ne peut être opérante que si lesdites ressources sont accessibles. _Qui garantit la disponibilité du commun ? Par quels moyens ?_
 
 **👉 Les bonnes pratiques de prévention**
 

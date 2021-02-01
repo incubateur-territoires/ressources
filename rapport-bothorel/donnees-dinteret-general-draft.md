@@ -7,30 +7,28 @@ description: >-
 
 # Données d'intérêt général \[DRAFT\]
 
-La collecte de données privées par la puissance publique est une réalité ancienne qui s’amplifie et se diversifie 
+La collecte de données privées par la puissance publique est une réalité ancienne qui s’amplifie et se diversifie
 
-Aujourd’hui, une large partie de l’action et du rôle même de la puissance publique est de collecter, de traiter et d’archiver des données fournies par les particuliers et les organisations privées. 
+Aujourd’hui, une large partie de l’action et du rôle même de la puissance publique est de collecter, de traiter et d’archiver des données fournies par les particuliers et les organisations privées.
 
 * Les entreprises sont aujourd’hui soumises à de multiples régimes de déclaration obligatoire
 * Les foyers sont tenus de déclarer leurs revenus, mais aussi les principaux évènements de vie \(naissances, unions, décès par exemple\). 
 
-Les individus et les organisations privées sont donc conduits à fournir un nombre croissant de données, ce qui incite d’ailleurs la puissance publique à rationaliser ses exigences, par exemple avec le dispositif "Dites-le-nous une fois". 
-
-
+Les individus et les organisations privées sont donc conduits à fournir un nombre croissant de données, ce qui incite d’ailleurs la puissance publique à rationaliser ses exigences, par exemple avec le dispositif "Dites-le-nous une fois".
 
 Au fil du temps, les rapports sociaux et économiques se sont complexifiés et le service public s’est étendu pour répondre aux attentes de la population. Les données nécessaires à l’accomplissement des missions de service public sont donc toujours plus nombreuses, et permettent notamment de :
 
-‒       délivrer des autorisations et des titres ;
+‒ délivrer des autorisations et des titres ;
 
-‒       contrôler le respect des obligations légales et réglementaires ;
+‒ contrôler le respect des obligations légales et réglementaires ;
 
-‒       assurer le fonctionnement des institutions ;
+‒ assurer le fonctionnement des institutions ;
 
-‒       développer et améliorer les services rendus au public et aux entreprises ;
+‒ développer et améliorer les services rendus au public et aux entreprises ;
 
-‒       permettre des projets de recherche ;
+‒ permettre des projets de recherche ;
 
-‒       favoriser le développement économique.
+‒ favoriser le développement économique.
 
 En outre, le développement des technologies numériques a produit une rupture quant à la nature des données qui peuvent intéresser la puissance publique et le potentiel qu’elle peut tirer de leur utilisation. Les données dont il est désormais souvent question sont, pour la plupart, des données massives \(Big Data\) liées à des transactions ou générées sous la forme de traces \(par exemple les données de caisse ou encore les trajets parcourus par un véhicule\). Selon l’organisation des Nations Unies, le Big Data est une opportunité de générer des informations en temps-réel, alors que les statistiques publiques apportent une information validée a posteriori, via des enquêtes rigoureuses.
 
@@ -42,15 +40,15 @@ Les données Big Data seules présentent tout de même une valeur d’usage cert
 
 De nombreuses initiatives ont vu le jour autour des données d’intérêt général, dans des secteurs d’activité et selon des modalités différentes. Le groupe d’experts mandaté par la Commission européenne\[5\] a recensé au moins cinq modalités de collaboration entre acteurs publics et privés \(entreprises et associations\) :
 
-‒       le fournisseur de données réalise les analyses en interne, à l’aide de ses outils propres, et met à disposition de la puissance publique, voire de la société dans son ensemble, les connaissances qui émergent de ces analyses ;
+‒ le fournisseur de données réalise les analyses en interne, à l’aide de ses outils propres, et met à disposition de la puissance publique, voire de la société dans son ensemble, les connaissances qui émergent de ces analyses ;
 
-‒       le fournisseur de données les met à disposition de la recherche afin de produire de nouvelles connaissances scientifiques ;
+‒ le fournisseur de données les met à disposition de la recherche afin de produire de nouvelles connaissances scientifiques ;
 
-‒       le fournisseur de données partage des données au sein de sa filière et peut partager tout ou partie des connaissances produites avec les autorités publiques ;
+‒ le fournisseur de données partage des données au sein de sa filière et peut partager tout ou partie des connaissances produites avec les autorités publiques ;
 
-‒       le fournisseur de données partage des données avec un ou plusieurs tiers de confiance identifiés ;
+‒ le fournisseur de données partage des données avec un ou plusieurs tiers de confiance identifiés ;
 
-‒       le fournisseur de données autorise un accès direct à certains ensembles de données.
+‒ le fournisseur de données autorise un accès direct à certains ensembles de données.
 
 Pour l’ensemble de ces modalités, les données \(et les connaissances\) peuvent être partagées sur une base volontaire ou faire l’objet d’obligations légales \(comme pour les régimes de déclaration obligatoire\). Parmi les initiatives volontaristes, on peut citer le réseau des Banques Populaires \(Groupe BPCE\) qui met à disposition des données agrégées sur les dépenses et paiements des touristes étrangers dans chaque région de France. La société Waze propose aux collectivités de participer à son programme Connected Citizens, qui prévoit un échange de données entre les parties prenantes.
 
@@ -82,9 +80,9 @@ Aujourd’hui, beaucoup trop de besoins demeurent insatisfaits dans la sphère p
 
 La définition d’une doctrine d’action partagée entre tous les acteurs est d’autant plus impérative que les données d’intérêt général constituent un levier puissant de transformation et de résolution des problèmes complexes auxquels nos sociétés sont confrontées. Il est désormais temps de passer à l’échelle.
 
-### 2. Un passage à l’échelle nécessaire mais juridiquement complexe
+## 2. Un passage à l’échelle nécessaire mais juridiquement complexe
 
-#### 2.1 L’accès aux données d’intérêt général par la puissance publique : une nécessité pour affronter les crises et inventer de nouvelles formes de régulation à l’ère numérique
+### 2.1 L’accès aux données d’intérêt général par la puissance publique : une nécessité pour affronter les crises et inventer de nouvelles formes de régulation à l’ère numérique
 
 Crise sanitaire, changement climatique, lutte contre la désinformation en ligne : les trois cas développés ici constituent autant d’exemples de la légitimité de la puissance publique à accéder et à utiliser les données du secteur privé. L’objectivation des phénomènes que les données privées permettent les rend indispensables à l’action publique pour traiter ces problèmes majeurs avec précision et efficacité. L’absence d’alternative \(une source de données non privées par exemple\) et l’importance de ces enjeux justifient le passage à l’échelle des politiques sur les données d’intérêt général.
 
@@ -146,12 +144,11 @@ Source : Mission ; Banque mondiale
 
 Enfin, la mission considère l’approche par projet particulièrement adaptée au domaine environnemental, compte tenu de la multiplicité des enjeux et parties prenantes. Dans cette optique, il ne s’agirait pas d’identifier et de qualifier des données d’intérêt général a priori mais plutôt de mettre en lumière les configurations associant certains acteurs, les données qu’ils partagent et les finalités poursuivies dont le résultat contribue à l’intérêt général. Une fois ce travail de veille et d’identification effectué par la puissance publique, elle pourrait accompagner le projet par la mise à disposition d’outils juridiques \(contrats types\), des infrastructures d’échanges \(à l’image du Green Data Hub – cf. partie 3\), et des incitations au partage volontaire de données.
 
-Une asymétrie d’information de la puissance publique avec les plateformes numériques qui invite à davantage de régulation par la donnée L’expérience récente montre que les plateformes numériques deviennent structurantes dans le débat public, l’équilibre économique de certains marchés et dans les relations entre les acteurs publics, la société civile et les citoyens. Leurs modèles d’affaires fondés sur la collecte et le traitement de données leur permet de procéder à des analyses très fines des phénomènes et comportements au sein de leurs écosystèmes, qui leur offrent un degré de connaissance supérieur à celui des utilisateurs ou des pouvoirs publics.  
+Une asymétrie d’information de la puissance publique avec les plateformes numériques qui invite à davantage de régulation par la donnée L’expérience récente montre que les plateformes numériques deviennent structurantes dans le débat public, l’équilibre économique de certains marchés et dans les relations entre les acteurs publics, la société civile et les citoyens. Leurs modèles d’affaires fondés sur la collecte et le traitement de données leur permet de procéder à des analyses très fines des phénomènes et comportements au sein de leurs écosystèmes, qui leur offrent un degré de connaissance supérieur à celui des utilisateurs ou des pouvoirs publics.
 
+\[1\] [https://www.ign.fr/institut/notre-histoire](https://www.ign.fr/institut/notre-histoire)
 
-\[1\] https://www.ign.fr/institut/notre-histoire
-
-\[2\] https://www.modernisation.gouv.fr/home/dites-le-nous-une-fois-un-programme-pour-simplifier-la-vie-desentreprises
+\[2\] [https://www.modernisation.gouv.fr/home/dites-le-nous-une-fois-un-programme-pour-simplifier-la-vie-desentreprises](https://www.modernisation.gouv.fr/home/dites-le-nous-une-fois-un-programme-pour-simplifier-la-vie-desentreprises)
 
 \[3\] Article 3 modifié de la Loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques.
 
@@ -159,13 +156,13 @@ Une asymétrie d’information de la puissance publique avec les plateformes num
 
 \[5\] "Towards a European strategy on business-to-government data sharing for the public interest / Final report prepared by the High-Level Expert Group on Business-to-Government Data Sharing", Publications Office of the European Union, 2020
 
-\[6\] https://www.legifrance.gouv.fr/jorf/id/JORFARTI000030978647
+\[6\] [https://www.legifrance.gouv.fr/jorf/id/JORFARTI000030978647](https://www.legifrance.gouv.fr/jorf/id/JORFARTI000030978647)
 
 \[7\] Loi n° 2019-1428 du 24 décembre 2019 d'orientation des mobilités.
 
 \[8\] Article 145 de la loi n° 2018-1021 du 28 novembre 2018 portant évolution du logement, de l’aménagement et du numérique
 
-\[9\] Décret n° 2019-1104 du 30 octobre 2019 pris en application des articles L. 324-1-1 et L. 324-2-1 du code du tourisme et relatif aux demandes d'information pouvant être adressées par les communes aux intermédiaires de location de meublés de tourisme \(https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039296575\)
+\[9\] Décret n° 2019-1104 du 30 octobre 2019 pris en application des articles L. 324-1-1 et L. 324-2-1 du code du tourisme et relatif aux demandes d'information pouvant être adressées par les communes aux intermédiaires de location de meublés de tourisme \([https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039296575\](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039296575\)\)
 
 \[10\] Article 28 de la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte
 
@@ -173,5 +170,5 @@ Une asymétrie d’information de la puissance publique avec les plateformes num
 
 \[12\] Gemma Cirac Claveras et Cédric Gossart, "Enjeux et perspectives des données environnementales massives", Terminal, 117, décembre 2015.
 
-\[13\] Voir : https://greentechverte.fr
+\[13\] Voir : [https://greentechverte.fr](https://greentechverte.fr)
 

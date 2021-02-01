@@ -14,9 +14,3 @@ Pour la faire décoller, puis pour la faire fonctionner, il faut que chaque part
 
 Sur le long terme, quand la station devient opérationnelle, elle reste en vol tant qu’elle est maintenue en état de marche. Il peut y avoir un roulement entre les équipages et des expériences menées en marge du projet cœur selon les divers intérêts et stratégies d'exploitation de la station, ce commun.
 
-
-
-
-
-
-

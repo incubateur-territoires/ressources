@@ -45,7 +45,7 @@ description: 'Version intégrale initiale, pour référence'
 
 **Recommandation n° 14** : Prévoir dans les collèges de la CNIL et de la CADA deux personnalités qualifiées compétentes, l’une en matière de sécurité des systèmes d’information et l’autre sur les nouveaux usages de la donnée
 
-**Recommandation n° 15** : Associer l’ANSSI à la mise en œuvre de la politique d’ouverture des données et des codes sources afin d’assurer que cette politique n’entre pas en contradiction avec les impératifs de sécurité des systèmes d’information :    
+**Recommandation n° 15** : Associer l’ANSSI à la mise en œuvre de la politique d’ouverture des données et des codes sources afin d’assurer que cette politique n’entre pas en contradiction avec les impératifs de sécurité des systèmes d’information :
 
 * prévoir que la CADA et la CNIL puissent saisir l’ANSSI pour avis quand il y a un doute sérieux en matière de sécurité des systèmes d’information ;
 * prévoir la possibilité, pour l’AGDAC de solliciter l’ANSSI pour un audit de bibliothèques et de logiciels libres sensibles

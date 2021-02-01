@@ -34,7 +34,7 @@ Les collectivités locales de plus petite taille peinent à mettre en œuvre une
 
 > La loi NOTRe de 2015 confie aux régions "la coordination, au moyen d'une plateforme de services numériques qu'elle anime, de l'acquisition et de la mise à jour des données géographiques de référence nécessaires à la description détaillée de son territoire ainsi qu'à l'observation et à l'évaluation de ses politiques territoriales, données dont elle favorise l'accès et la réutilisation". Ainsi, à chaque région est associée une ou deux plateformes selon que l’État et la région se sont entendus ou non sur l’infrastructure, y compris sur la gouvernance.
 
-Néanmoins, plusieurs collectivités territoriales rencontrées par la mission ont souligné l’importance du soutien de l’État dans cette démarche, qui bénéficie à tous. 
+Néanmoins, plusieurs collectivités territoriales rencontrées par la mission ont souligné l’importance du soutien de l’État dans cette démarche, qui bénéficie à tous.
 
 {% hint style="info" %}
 **Recommandation** : Confier à l’ANCT une mission d’accompagnement des collectivités territoriales dans la publication des données et des codes sources via des programmes co-financés entre État et région

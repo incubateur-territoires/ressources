@@ -9,5 +9,3 @@ Un tour d'horizon des différentes structures et communautés autour des collter
 * Incubateur
 * Ecosystème de soutien \(autres missions/agences intermin, banque des territoires...\)
 
-
-

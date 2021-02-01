@@ -1,12 +1,6 @@
 # Glossaire
 
-
-
 Gouvernance
 
 Enclosure
-
-
-
-
 

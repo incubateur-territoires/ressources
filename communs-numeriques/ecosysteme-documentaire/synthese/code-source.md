@@ -6,13 +6,9 @@ description: >-
 
 # Licences liées au code source
 
-{% embed url="https://www.numerique.gouv.fr/publications/politique-logiciel-libre/" %}
+{% embed url="https://www.numerique.gouv.fr/publications/politique-logiciel-libre/" caption="" %}
 
-{% embed url="https://www.data.gouv.fr/fr/licences" %}
-
-
-
-
+{% embed url="https://www.data.gouv.fr/fr/licences" caption="" %}
 
 Les services numériques sont en premier lieu des logiciels. Leur nature est donc du code informatique, même si on ne peut en aucun cas les réduire à cette essence.
 

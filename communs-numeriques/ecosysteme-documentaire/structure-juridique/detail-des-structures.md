@@ -8,27 +8,25 @@ Voir avec Mauko la date de dernière MàJ et la facon correcte de référencer c
 
 | Régime | Dispositif |
 | :--- | :--- |
-| **Convention**          | Délégation de gestion |
-|  | Refacturation  |
+| **Convention** | Délégation de gestion |
+|  | Refacturation |
 |  | Fonds de concours |
-|  |  Délégation de service public  |
-| **Agence**  | GIP   |
-|  | SNC  |
-| **Agence** \(Établissement Public\) | EPA  |
-|  | EPIC        |
+|  | Délégation de service public |
+| **Agence** | GIP |
+|  | SNC |
+| **Agence** \(Établissement Public\) | EPA |
+|  | EPIC |
 | **Entreprise Publique Locale** | SEM/L |
-|  |  SPL |
+|  | SPL |
 |  | SPLA |
-| **Privé**                | SCIC        |
-|  | Association                |
+| **Privé** | SCIC |
+|  | Association |
 |  | SA/SAS/SASU |
-| **Groupement**  | GIE/GEIE              |
+| **Groupement** | GIE/GEIE |
 
 {% hint style="info" %}
 Le droit est une matière vivante ! Une enquête de la 27ème Région permettra en 2021 de partager les pratiques de terrain des juristes qui accompagnent des tiers-lieux de différents territoires francais, et qui ont besoin de contractualiser autour des Communs produits et maintenus.
 
 \[ajouter ref/lien juristes embarqués ?\]
 {% endhint %}
-
-                                                                                    
 

@@ -12,13 +12,13 @@ La dynamique d’ouverture des codes sources publics est difficile à mesurer
 
 La plateforme de recensement existante, code.etalab.gouv.fr, bénéficie d’une moindre attractivité que celle de data.gouv.fr, en l’absence de services pour répondre aux besoins des développeurs \(hébergement des codes sources, suivi des versions, suivi des retours utilisateurs\)
 
-Aucun mécanisme n’existe aujourd’hui pour faire connaître de manière certaine les codes ouverts à la DINUM, chargée de leur valorisation. 
+Aucun mécanisme n’existe aujourd’hui pour faire connaître de manière certaine les codes ouverts à la DINUM, chargée de leur valorisation.
 
 Ainsi, la plateforme privée github.com héberge 61% des codes sources publics. code.etalab.gouv.fr joue un rôle de portail d’accès à tous les dépôts de code source pour l'ensemble des plateformes, privées \(github.com, gitlab.com\), associatives \(framagit.org, gitlab.adullact.net et gitlab.ow2.org\) ou publiques \(21 instances du logiciel libre GitLab, la plupart installées dans l'enseignement supérieur et la recherche, à l'exception notable du Grand Lyon, qui a déployé forge.grandlyon.com\).
 
 La plateforme code.etalab.gouv.fr recense au 8 décembre 2020 un total de 5 679 dépôts, dont 29 % liés à la recherche \(1 644 dépôts\). Parmi les principaux contributeurs, outre beta.gouv.fr et Etalab, qui figurent en tête, on peut mentionner le Médialab de Sciences Po \(176 dépôts\), les applications métiers LUTECE destinées au secteur public \(131 dépôts\), la Fabrique numérique des ministères sociaux \(118 dépôts\), le portail Esup \(107 dépôts\).
 
-Seulement 31% des 5655 dépôts ont une licence identifiée par GitHub ou par GitLab. 
+Seulement 31% des 5655 dépôts ont une licence identifiée par GitHub ou par GitLab.
 
 Même si des dépôts peuvent avoir une licence qui reste non identifiée automatiquement, cela indique néanmoins qu'une majorité de dépôts sont publiés sans licence. Pour ceux qui sont publiés avec licence, la licence la plus utilisée est la licence MIT \(30,2 % des codes du site\)\[3\], suivie par la licence GNU Affero General Public License v3.0 \(16,5%\). Les licences Creative commons représentent une minorité, avec 0,5 % des codes pour la Creative Commons Attributions Share Alike 4.0 International, et 0,3 % pour la Creative Commons Attribution 4.0 International.
 

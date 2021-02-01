@@ -20,7 +20,7 @@ description: >-
 
 ## Droit et régulation
 
-**Recommandation n° 15** : Associer l’ANSSI à la mise en œuvre de la politique d’ouverture des données et des codes sources afin d’assurer que cette politique n’entre pas en contradiction avec les impératifs de sécurité des systèmes d’information \(...\) 
+**Recommandation n° 15** : Associer l’ANSSI à la mise en œuvre de la politique d’ouverture des données et des codes sources afin d’assurer que cette politique n’entre pas en contradiction avec les impératifs de sécurité des systèmes d’information \(...\)
 
 **Recommandation n° 16** : Vérifier que la loi garantit l’ouverture de toutes les données de services publics mis en œuvre par des acteurs privés \(professions réglementées de la justice notamment\)
 

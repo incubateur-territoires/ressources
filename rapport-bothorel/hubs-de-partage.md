@@ -13,7 +13,7 @@ description: >-
   * ou d’accès \(le réutilisateur ne conserve pas les données mais uniquement le résultat du traitement\). 
   * mécanismes de protection et de sécurité adaptés \(ex. données personnelles\).
 
-Plateforme de données \(ou hub\) : infrastructure de stockage qui regroupe un ensemble de données en provenance de systèmes d’informations multiples.  
+Plateforme de données \(ou hub\) : infrastructure de stockage qui regroupe un ensemble de données en provenance de systèmes d’informations multiples.
 
 * Regrouper toutes les données de façon centralisée
 * Facilite l’accès aux données et leur utilisation de façon sécurisée
@@ -21,9 +21,9 @@ Plateforme de données \(ou hub\) : infrastructure de stockage qui regroupe un e
 
 Un hub désigne également, dans le rapport Bothorel, l’organisation mise en place destinée à fédérer le partage et/ou l’accès à la donnée autour de problématiques communes à un groupe d’acteurs sectoriels ou intersectoriels.
 
-## **Cas d'usage : La plateforme Apidae Tourisme** 
+## **Cas d'usage : La plateforme Apidae Tourisme**
 
-#### _Un exemple de plateformes de données pilotées par les acteurs de filière, y compris les collectivités territoriales_ 
+### _Un exemple de plateformes de données pilotées par les acteurs de filière, y compris les collectivités territoriales_
 
 La plateforme [Apidae Tourisme](https://www.apidae-tourisme.com/ressources/) a pour origine la création, en 2004, dans la région Rhône Alpes, d’un réseau d’acteurs du secteur du tourisme dont l’objectif était de mutualiser des moyens pour développer une base de données des informations touristiques. Progressivement, sa mission s’est élargie avec l’ambition de favoriser la mise en relation des acteurs de l’écosystème local qui utilisent la donnée touristique au service de l’économie locale.
 
@@ -50,7 +50,4 @@ Note hors rapport : constituée en SCIC \(Société Coopérative d'Intérêt Col
 * Offre de "briques de service" en amont \(à destination des fournisseurs de données, par exemple la structuration, mise en qualité et nettoyage de la donnée\) ou aval \(pour les utilisateurs, par exemple l’analyse de données quantitatives ou qualitatives\) ;
 * Modèle de financement : au moyen d’abonnements acquittés par les fournisseurs de données et les utilisateurs de données, voire de commissions ou de rétributions pour les prestations de service réalisées. ;
 * Puissant levier de développement d’un écosystème aval de valorisation de la donnée \(services, applications, etc.\).
-
-  
-
 
