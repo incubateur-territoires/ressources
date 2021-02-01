@@ -18,7 +18,5 @@ description: '"Un commun, dans une collectivité territoriale ?"'
 >
 > « Achats de licences, utilisations de données… je me pose des questions sur notre stratégie numérique. »
 
-* [Un commun... pour quoi ? Pour qui ? Qui s’implique dans un commun ?](premiers-pas.md)
-* Des individus, des institutions… une communauté 
-* Pour passer d’une bonne idée à un service pérenne : faites-vous accompagner !
+
 

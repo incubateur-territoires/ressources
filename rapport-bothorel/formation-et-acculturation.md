@@ -4,7 +4,7 @@ description: >-
   au numérique"
 ---
 
-# 🔑 Formation et acculturation
+# 📢 Formation et acculturation
 
 * Fort besoin d’acculturation des agents publics aux enjeux numériques, à commencer par les cadres dirigeants. 
 * Utilité et potentiel des données et des codes sont mal compris : restent identifiés comme des sujets purement "techniques", et non au service de l’élaboration et du pilotage des politiques publiques.

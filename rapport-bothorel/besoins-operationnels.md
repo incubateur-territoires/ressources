@@ -1,8 +1,10 @@
 ---
-description: 1.2. Des données de qualité au service des différents usages
+description: >-
+  À partir du Rapport : "1.2. Des données de qualité au service des différents
+  usages"
 ---
 
-# Besoins opérationnels \[DRAFT\]
+# 🔑 Besoins opérationnels
 
 ## **Normaliser à des fins d’interopérabilité des données**
 

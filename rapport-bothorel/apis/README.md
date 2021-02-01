@@ -1,6 +1,6 @@
 # 📎 APIs
 
-## **Les API : un outil utile, mais qui ne doit pas conduire à limiter les réutilisations**
+### **Les API : un outil utile, mais qui ne doit pas conduire à limiter les réutilisations**
 
 * L'API \(Application Programming Interface\) est une interface qui rend disponible les données et des fonctionnalités d’une application existante, à destination d’une application cliente. 
 * Physiquement, les bases de données sont stockées à distance \(chez leur propriétaire par exemple\).
@@ -8,13 +8,10 @@
 * Le choix de recourir à une API est le plus souvent justifié par des contraintes techniques, par ex : 
   * la volumétrie de la donnée mise à disposition et des réutilisations, 
   * le degré de sécurité, 
-  * la fréquence de mise à jour ou la granularité des données \(cf cas usage SIRENE\). 
+  * la fréquence de mise à jour ou la granularité des données \(cf [cas usage SIRENE](cas-dusage-la-base-sirene.md)\). 
+* L’API suppose d’avoir les moyens de recourir à une application qui interroge l’API et récupère les données, ce qui n’est pas à la portée de l’usager non expert, mais ce qui facilite l’appropriation de la donnée pour les réutilisateurs qui souhaitent exploiter la donnée par le biais d’une application.
 
-L’API présente ainsi à la fois des avantages et des inconvénients pour l’utilisateur, et son utilisation doit donc être justifiée par ce bilan d’opportunité, entre la facilitation du service, et la restriction des usages. Si la donnée est un bien non rival, c’est-à-dire que son utilisation par un nouvel utilisateur ne limite pas l’utilisation qui est faite par les autres utilisateurs, ce n’est pas vrai de l’API, sorte de "pont du XXIème siècle ", infrastructure d’accès à la donnée dont l’utilisation engendre des coûts.
-
-Par ailleurs, il convient de souligner que l’API suppose d’avoir les moyens de recourir à une application qui interroge l’API et récupère les données, ce qui n’est pas à la portée de l’usager non expert, mais ce qui facilite l’appropriation de la donnée pour les réutilisateurs qui souhaitent exploiter la donnée par le biais d’une application.
-
-Le choix d’une API détermine notamment la disponibilité des champs de données et les séries temporelles. En mettant à disposition les données les plus "fraîches", elle permet une mise à jour en continue des données pour l’utilisateur, mais elle rend aussi impossible l’accès aux anciennes données, sauf dans le cas où les paramètres de l’API le permettent.
+_Le choix d’une API détermine notamment la disponibilité des champs de données et les séries temporelles. En mettant à disposition les données les plus "fraîches", elle permet une mise à jour en continue des données pour l’utilisateur, mais elle rend aussi impossible l’accès aux anciennes données, sauf dans le cas où les paramètres de l’API le permettent._
 
 * La structure des données transmises par API est le plus souvent simplifiée et se concentre sur les champs identifiés par les principaux usages. 
 * L’API permet également de suivre et de réguler les accès des utilisateurs, et présente à cet égard l’avantage pour le diffuseur de pouvoir gérer des fonctions de sécurité ou de contrat, en exigeant que ces informations juridiques soient envoyées dans la requête \(URL, IP, clé de licence, par exemple\). 

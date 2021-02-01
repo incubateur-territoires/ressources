@@ -1,15 +1,12 @@
 # Table of contents
 
-* [Ressources pour les collectivités territoriales](README.md)
+* [🛠 Ressources pour les collectivités territoriales](README.md)
 
 ## COMMUNS NUMÉRIQUES
 
 * [Communs numériques](communs-numeriques/communs-sinformer/README.md)
-  * [Communs - Pour qui ?](communs-numeriques/communs-sinformer/premiers-pas.md)
   * [Rôles et postures au sein d'un projet de communs](communs-numeriques/communs-sinformer/communs-quels-roles.md)
-  * [Vérifier si \(et où\) la démarche de commun est pertinente pour mon projet](communs-numeriques/communs-sinformer/verifier-si-et-ou-la-demarche-de-commun-est-pertinente-pour-mon-projet.md)
   * [Communs - L'écosystème](communs-numeriques/communs-sinformer/communs-lecosysteme.md)
-  * [Communs - Se faire accompagner](communs-numeriques/communs-sinformer/communs-se-faire-accompagner.md)
 * [Écosystème documentaire des communs](communs-numeriques/ecosysteme-documentaire/README.md)
   * [📑 Status Quo Ante et Préfiguration](communs-numeriques/ecosysteme-documentaire/prefiguration/README.md)
     * [Contribuer à un commun existant](communs-numeriques/ecosysteme-documentaire/prefiguration/contribuer/README.md)
@@ -40,14 +37,14 @@
 * [📡 Ouverture de données](rapport-bothorel/ouverture-de-donnees/README.md)
   * [Infrastructure et enjeux autour de data.gouv.fr](rapport-bothorel/ouverture-de-donnees/infrastructure-et-enjeux-autour-de-data.gouv.fr.md)
   * [Cas d'usage : réutilisation de données publiques](rapport-bothorel/ouverture-de-donnees/cas-usage-reutilisation-donnees-publiques.md)
-* [🧩 Ouverture de codes sources \[DRAFT\]](rapport-bothorel/ouverture-codes-sources/README.md)
+* [🧩 Ouverture de codes sources](rapport-bothorel/ouverture-codes-sources/README.md)
   * [Cas d'usage : trois logiciels mutualisant des données de territoires](rapport-bothorel/ouverture-codes-sources/cas-dusage.md)
 * [📎 APIs](rapport-bothorel/apis/README.md)
   * [Cas d'usage : la base SIRENE](rapport-bothorel/apis/cas-dusage-la-base-sirene.md)
 * [🛒 Hubs de partage](rapport-bothorel/hubs-de-partage.md)
+* [🔑 Besoins opérationnels](rapport-bothorel/besoins-operationnels.md)
 * [📌Portage politique](rapport-bothorel/portage-politique.md)
-* [🔑 Formation et acculturation](rapport-bothorel/formation-et-acculturation.md)
-* [Besoins opérationnels \[DRAFT\]](rapport-bothorel/besoins-operationnels.md)
+* [📢 Formation et acculturation](rapport-bothorel/formation-et-acculturation.md)
 * [Données d'intérêt général \[DRAFT\]](rapport-bothorel/donnees-dinteret-general-draft.md)
 
 ## OUTILS

@@ -4,14 +4,25 @@ description: Tous impliqués... à différents titres
 
 # Rôles et postures au sein d'un projet de communs
 
-En intégrant un projet de communs, votre institution et les agents impliqués vont s'intégrer à un projet dans lequel les contributeurs adoptent une ou plusieurs postures.
+
+
+Un projet de mutualisation de services numériques peut impliquer, autour et au sein d'une collectivité, différentes structures et communautés :
+
+* Agents référents
+* Intrapreneurs /EIG
+* Développeurs
+* Décideurs des collterr \(sponsor, DGS...\)
+* Incubateur
+* Ecosystème de soutien \(autres missions/agences intermin, banque des territoires...\)
+
+Chaque partie prenante au projet adopte une ou plusieurs postures.
 
 | **Posture** | **Apports au commun** |
 | :--- | :--- |
-| Garant | Qui donne du crédit au commun, par la stature importante de son organisation, comme un ministère, un gouvernement, ou un important acteur privé. |
-| Mainteneur | Qui a une vision globale du projet, et de la stratégie de développement du commun. Il élabore la feuille de route. |
-| Contributeur | Qui donne a la ressource, du temps ou de la matière, par des propositions d'évolutions, des remontées de bugs, de la création de documentation. |
-| Utilisateur | Qui a l'usage final de la ressource |
+| Garant | Donne du crédit au commun, par la stature importante de son organisation, comme un ministère, un gouvernement, ou un important acteur privé. |
+| Mainteneur | Possède une vision globale du projet, et de la stratégie de développement du commun. Il élabore la feuille de route. |
+| Contributeur | Donne à la ressource du temps ou de la matière, par des propositions d'évolutions, des remontées de bugs, de la création de documentation. |
+| Utilisateur |  A l'usage final de la ressource |
 
 
 

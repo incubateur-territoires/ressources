@@ -1,10 +1,10 @@
 # Juridique
 
-RGPD
+{% page-ref page="securiser-les-droits-des-contributeurs.md" %}
 
-Droits des contributeurs
+{% page-ref page="communs-comment-prevenir-les-risques.md" %}
 
-Risk mngt
+
 
 
 

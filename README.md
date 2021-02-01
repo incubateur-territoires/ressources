@@ -4,7 +4,7 @@ description: >-
   Territoriales
 ---
 
-# Ressources pour les collectivités territoriales
+# 🛠 Ressources pour les collectivités territoriales
 
 Ce wiki est un espace de convergence et de partage de ressources utiles aux collectivités territoriales et à leurs partenaires. Rassembler ces éléments, et les maintenir à jour, c'est un chantier perpétuel. N'éhsitez pas à nous contacter pour tout 
 

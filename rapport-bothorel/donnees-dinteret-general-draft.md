@@ -1,8 +1,8 @@
 ---
 description: >-
-  À partir de 1.2 Les données d’intérêt général : un outil ancien qui s’est
-  développé de façon progressive et hétérogène au profit de politiques publiques
-  sectorielles
+  À partir du Rapport : "1.2 Les données d’intérêt général : un outil ancien qui
+  s’est développé de façon progressive et hétérogène au profit de politiques
+  publiques sectorielles"
 ---
 
 # Données d'intérêt général \[DRAFT\]
@@ -15,8 +15,6 @@ Aujourd’hui, une large partie de l’action et du rôle même de la puissance 
 * Les foyers sont tenus de déclarer leurs revenus, mais aussi les principaux évènements de vie \(naissances, unions, décès par exemple\). 
 
 Les individus et les organisations privées sont donc conduits à fournir un nombre croissant de données, ce qui incite d’ailleurs la puissance publique à rationaliser ses exigences, par exemple avec le dispositif "Dites-le-nous une fois". 
-
-
 
 Au fil du temps, les rapports sociaux et économiques se sont complexifiés et le service public s’est étendu pour répondre aux attentes de la population. Les données nécessaires à l’accomplissement des missions de service public sont donc toujours plus nombreuses, et permettent notamment de :
 
