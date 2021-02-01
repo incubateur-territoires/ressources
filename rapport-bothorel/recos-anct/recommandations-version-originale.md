@@ -2,7 +2,7 @@
 description: 'Version intégrale initiale, pour référence'
 ---
 
-# Recommandations \[version originale\]
+# Recommandations
 
 ## Recommandations transversales
 
