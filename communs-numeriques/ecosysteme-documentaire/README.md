@@ -2,7 +2,7 @@
 description: Un projet bien cadré et partagé
 ---
 
-# Écosystème documentaire
+# Écosystème documentaire des communs
 
 Au cours du cycle de vie du commun, plusieurs documents constituent l'épine dorsale du projet de développement de service numérique mutualisé. 
 

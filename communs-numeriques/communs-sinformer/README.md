@@ -2,7 +2,7 @@
 description: '"Un commun, dans une collectivité territoriale ?"'
 ---
 
-# Principes de base
+# Communs numériques
 
 **Sur le chemin qui mène les collectivités territoriales vers les communs, des questions à la fois pratiques et politiques :**
 

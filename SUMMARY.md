@@ -1,17 +1,16 @@
 # Table of contents
 
 * [Ressources pour les collectivités territoriales](README.md)
-* [Sources](sources.md)
 
 ## COMMUNS NUMÉRIQUES
 
-* [Principes de base](communs-numeriques/communs-sinformer/README.md)
+* [Communs numériques](communs-numeriques/communs-sinformer/README.md)
   * [Communs - Pour qui ?](communs-numeriques/communs-sinformer/premiers-pas.md)
   * [Rôles et postures au sein d'un projet de communs](communs-numeriques/communs-sinformer/communs-quels-roles.md)
   * [Vérifier si \(et où\) la démarche de commun est pertinente pour mon projet](communs-numeriques/communs-sinformer/verifier-si-et-ou-la-demarche-de-commun-est-pertinente-pour-mon-projet.md)
   * [Communs - L'écosystème](communs-numeriques/communs-sinformer/communs-lecosysteme.md)
   * [Communs - Se faire accompagner](communs-numeriques/communs-sinformer/communs-se-faire-accompagner.md)
-* [Écosystème documentaire](communs-numeriques/ecosysteme-documentaire/README.md)
+* [Écosystème documentaire des communs](communs-numeriques/ecosysteme-documentaire/README.md)
   * [📑 Status Quo Ante et Préfiguration](communs-numeriques/ecosysteme-documentaire/prefiguration/README.md)
     * [Contribuer à un commun existant](communs-numeriques/ecosysteme-documentaire/prefiguration/contribuer/README.md)
       * [Checklist 1/3 : Notre capacité à contribuer](communs-numeriques/ecosysteme-documentaire/prefiguration/contribuer/capacite-a-contribuer.md)
@@ -55,4 +54,8 @@
 * [Glossaire](outils/glossaire/README.md)
   * [Commun\(s\)](outils/glossaire/commun-s.md)
   * [Enclosure](outils/glossaire/enclosure.md)
+
+---
+
+* [Sources](sources.md)
 
