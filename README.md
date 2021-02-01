@@ -20,7 +20,7 @@ Vous y trouvez actuellement :
 
 ## Dans l'espace 'Rapport Bothorel'
 
-{% page-ref page="rapport-bothorel/recos-anct/recommandations-version-originale.md" %}
+{% page-ref page="rapport-bothorel/recommandations-version-originale.md" %}
 
 
 

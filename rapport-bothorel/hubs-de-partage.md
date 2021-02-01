@@ -4,7 +4,7 @@ description: >-
   indispensables mais qui doivent être interopérables
 ---
 
-# Hubs de partage
+# 🛒 Hubs de partage
 
 * Valoriser la donnée suppose dans une majorité des cas de recourir à des données détenues par un tiers.
 * Dans certains cas, l’ouverture des données et des codes sources au public n’est pas possible, ni même souhaitable \(pour des raisons notamment de protection des données personnelles, de protection du secret –statistique, fiscal, médical, judiciaire, des affaires, etc.\). 

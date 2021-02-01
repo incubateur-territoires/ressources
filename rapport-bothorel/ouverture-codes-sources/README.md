@@ -4,7 +4,7 @@ description: >-
   confidentielle et qui manque de visibilité sur les réutilisations"
 ---
 
-# Ouverture de codes sources \[DRAFT\]
+# 🧩 Ouverture de codes sources \[DRAFT\]
 
 **L’ouverture des codes sources, un mouvement encore confidentiel dans l’État, malgré un progrès depuis 2015.**
 

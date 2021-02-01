@@ -5,7 +5,7 @@ description: >-
   une République numérique"
 ---
 
-# Ouverture de données
+# 📡 Ouverture de données
 
 * Essoufflement de la dynamique d’ouverture des données et codes sources publics générée par la loi pour une République numérique.
 * Pas de recensement exhaustif à jour des données et des codes sources publics qui permettrait de mesurer le taux d’ouverture de ces derniers. 

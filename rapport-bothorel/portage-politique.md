@@ -2,7 +2,7 @@
 description: 'À partir du Rapport : 3.1. La nécessité d’un portage politique fort'
 ---
 
-# Portage politique
+# 📌Portage politique
 
 ## **Réinvestir le rôle d’administrateur général des données, et élargir son périmètre à l’ouverture des algorithmes et de codes sources**
 
