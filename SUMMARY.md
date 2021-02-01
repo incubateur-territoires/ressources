@@ -6,7 +6,6 @@
 
 * [Communs numériques](communs-numeriques/communs-sinformer/README.md)
   * [Rôles et postures au sein d'un projet de communs](communs-numeriques/communs-sinformer/communs-quels-roles.md)
-  * [Communs - L'écosystème](communs-numeriques/communs-sinformer/communs-lecosysteme.md)
 * [Écosystème documentaire des communs](communs-numeriques/ecosysteme-documentaire/README.md)
   * [📑 Status Quo Ante et Préfiguration](communs-numeriques/ecosysteme-documentaire/prefiguration/README.md)
     * [Contribuer à un commun existant](communs-numeriques/ecosysteme-documentaire/prefiguration/contribuer/README.md)
