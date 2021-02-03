@@ -2,7 +2,7 @@
 description: 'Source : https://communs.mattischneider.fr/'
 ---
 
-# Politique de consommation et contribution au commun
+# 📡 Politique de consommation et contribution au commun
 
 Ce tableau récapitule les modalités et instruments juridiques pour les principaux constituants d'un service numérique mutualisé :
 

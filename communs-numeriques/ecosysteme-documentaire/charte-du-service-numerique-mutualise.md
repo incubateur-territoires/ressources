@@ -2,7 +2,7 @@
 description: Un ensemble de documents de référence
 ---
 
-# 🔧 Charte du service numérique mutualisé
+# 📌 Charte du service numérique mutualisé
 
 La charte est un ensemble de références de gouvernance et de co-construction que les contributeurs et les consommateurs s'obligent à respecter
 
