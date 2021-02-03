@@ -48,11 +48,11 @@
 
 ## OUTILS
 
-* [Glossaire](outils/glossaire/README.md)
+* [💡 Glossaire](outils/glossaire/README.md)
   * [Commun\(s\)](outils/glossaire/commun-s.md)
   * [Enclosure](outils/glossaire/enclosure.md)
 
 ---
 
-* [Sources](sources.md)
+* [🧲 Sources](sources.md)
 
