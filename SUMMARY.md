@@ -4,7 +4,7 @@
 
 ## COMMUNS NUMÉRIQUES
 
-* [Communs numériques](communs-numeriques/communs-sinformer/README.md)
+* [🤝 Des communs numériques au service des collectivités territoriales](communs-numeriques/communs-sinformer/README.md)
   * [Rôles et postures au sein d'un projet de communs](communs-numeriques/communs-sinformer/communs-quels-roles.md)
 * [Écosystème documentaire des communs](communs-numeriques/ecosysteme-documentaire/README.md)
   * [📑 Status Quo Ante et Préfiguration](communs-numeriques/ecosysteme-documentaire/prefiguration/README.md)
