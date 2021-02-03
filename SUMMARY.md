@@ -21,7 +21,7 @@
     * [Clauses liées à l'usage](communs-numeriques/ecosysteme-documentaire/synthese/usage.md)
     * [Points de vigilance autour des données](communs-numeriques/ecosysteme-documentaire/synthese/donnees.md)
     * [Marque](communs-numeriques/ecosysteme-documentaire/synthese/marque.md)
-  * [🛠 Outillage Projet](communs-numeriques/ecosysteme-documentaire/produire-des-communs.md)
+  * [🔧 Outillage Projet](communs-numeriques/ecosysteme-documentaire/produire-des-communs.md)
   * [🔦 Pérennisation](communs-numeriques/ecosysteme-documentaire/perennisation/README.md)
     * [Interaction avec les usagers](communs-numeriques/ecosysteme-documentaire/perennisation/communaute.md)
 * [Exemples et cas pratiques](communs-numeriques/exemples/README.md)

@@ -1,4 +1,4 @@
-# 🛠 Outillage Projet
+# 🔧 Outillage Projet
 
 Mettre en place un cadre efficace pour structurer la contribution à la ressource :
 
