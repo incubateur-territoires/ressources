@@ -2,7 +2,7 @@
 description: Tous impliqués... à différents titres
 ---
 
-# Rôles et postures au sein d'un projet de communs
+# 🤝 Rôles et postures au sein d'un projet de communs
 
 
 

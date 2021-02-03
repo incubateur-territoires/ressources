@@ -2,7 +2,7 @@
 description: Un parti-pris de mutualisation qui fait pleinement sens
 ---
 
-# 🤝 Des communs numériques au service des collectivités territoriales
+# Des communs numériques au service des collectivités territoriales
 
 Il y a de nombreuses définitions de communs. Dans le contexte de l'incubateur des territoires, dont la mission et de favoriser l'émergence de services numériques partagés par et pour des collectivités territoriales, les communs dont il est question prennent la forme de **solutions numériques mutualisées**.
 
