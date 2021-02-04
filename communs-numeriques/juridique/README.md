@@ -1,4 +1,8 @@
-# Juridique
+---
+description: '[En chantier]'
+---
+
+# 🦺 Juridique
 
 {% page-ref page="securiser-les-droits-des-contributeurs.md" %}
 

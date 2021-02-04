@@ -2,9 +2,9 @@
 description: Un projet bien cadré et partagé
 ---
 
-# Écosystème documentaire des communs
+# 📚 Écosystème documentaire des communs
 
-Au cours du cycle de vie du commun, plusieurs documents constituent l'épine dorsale du projet de développement de service numérique mutualisé. 
+Au cours du cycle de vie du commun, plusieurs documents constituent l'épine dorsale de chaque projet de développement de service numérique mutualisé accompagné par l'Incubateur des Territoires. 
 
 #### Status Quo Ante : Documentation des éléments initiaux 
 

@@ -4,9 +4,9 @@
 
 ## COMMUNS NUMÉRIQUES
 
-* [Des communs numériques au service des collectivités territoriales](communs-numeriques/communs-sinformer/README.md)
-  * [🤝 Rôles et postures au sein d'un projet de communs](communs-numeriques/communs-sinformer/communs-quels-roles.md)
-* [Écosystème documentaire des communs](communs-numeriques/ecosysteme-documentaire/README.md)
+* [🤝 Des communs numériques au service des collectivités territoriales](communs-numeriques/communs-sinformer/README.md)
+  * [Rôles et postures au sein d'un projet de communs](communs-numeriques/communs-sinformer/communs-quels-roles.md)
+* [📚 Écosystème documentaire des communs](communs-numeriques/ecosysteme-documentaire/README.md)
   * [📑 Status Quo Ante et Préfiguration](communs-numeriques/ecosysteme-documentaire/prefiguration/README.md)
     * [Contribuer à un commun existant](communs-numeriques/ecosysteme-documentaire/prefiguration/contribuer/README.md)
       * [Checklist 1/3 : Notre capacité à contribuer](communs-numeriques/ecosysteme-documentaire/prefiguration/contribuer/capacite-a-contribuer.md)
@@ -26,7 +26,7 @@
     * [Interaction avec les usagers](communs-numeriques/ecosysteme-documentaire/perennisation/communaute.md)
 * [Exemples et cas pratiques](communs-numeriques/exemples/README.md)
   * [La Rochelle Territoire Zéro Carbone](communs-numeriques/exemples/la-rochelle-territoire-zero-carbone.md)
-* [Juridique](communs-numeriques/juridique/README.md)
+* [🦺 Juridique](communs-numeriques/juridique/README.md)
   * [Sécuriser les droits des contributeurs](communs-numeriques/juridique/securiser-les-droits-des-contributeurs.md)
   * [Prévenir les risques](communs-numeriques/juridique/communs-comment-prevenir-les-risques.md)
 
