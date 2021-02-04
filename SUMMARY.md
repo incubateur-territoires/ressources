@@ -24,7 +24,7 @@
   * [🔧 Outillage Projet](communs-numeriques/ecosysteme-documentaire/produire-des-communs.md)
   * [🔦 Pérennisation](communs-numeriques/ecosysteme-documentaire/perennisation/README.md)
     * [Interaction avec les usagers](communs-numeriques/ecosysteme-documentaire/perennisation/communaute.md)
-* [Exemples et cas pratiques](communs-numeriques/exemples/README.md)
+* [🔎 Exemples et cas pratiques](communs-numeriques/exemples/README.md)
   * [La Rochelle Territoire Zéro Carbone](communs-numeriques/exemples/la-rochelle-territoire-zero-carbone.md)
 * [🦺 Juridique](communs-numeriques/juridique/README.md)
   * [Sécuriser les droits des contributeurs](communs-numeriques/juridique/securiser-les-droits-des-contributeurs.md)
