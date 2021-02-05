@@ -10,7 +10,7 @@ e wiki est un espace de convergence et de partage de ressources utiles aux colle
 
 Vous y trouvez actuellement :
 
-## Dans l'espace 'communs numériques'
+## Espace 'communs numériques'
 
 {% page-ref page="communs-numeriques/communs-sinformer/" %}
 
@@ -18,7 +18,7 @@ Vous y trouvez actuellement :
 
 {% page-ref page="communs-numeriques/exemples/" %}
 
-## Dans l'espace 'Rapport Bothorel'
+## Espace 'Rapport Bothorel'
 
 {% page-ref page="rapport-bothorel/recommandations-version-originale.md" %}
 
