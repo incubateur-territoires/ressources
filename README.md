@@ -6,7 +6,7 @@ description: >-
 
 # 🛠 Ressources pour les collectivités territoriales
 
-Ce wiki est un espace de convergence et de partage de ressources utiles aux collectivités territoriales et à leurs partenaires. Rassembler ces éléments, et les maintenir à jour, c'est un chantier perpétuel. N'hésitez pas à nous contacter pour toute suggestion d'ajout ou de modification !
+e wiki est un espace de convergence et de partage de ressources utiles aux collectivités territoriales et à leurs partenaires. Rassembler ces éléments, et les maintenir à jour, c'est un chantier perpétuel. N'hésitez pas à nous contacter pour toute suggestion d'ajout ou de modification !
 
 Vous y trouvez actuellement :
 
@@ -22,9 +22,19 @@ Vous y trouvez actuellement :
 
 {% page-ref page="rapport-bothorel/recommandations-version-originale.md" %}
 
+{% page-ref page="rapport-bothorel/ouverture-de-donnees/" %}
 
+{% page-ref page="rapport-bothorel/ouverture-codes-sources/" %}
 
+{% page-ref page="rapport-bothorel/apis/" %}
 
+{% page-ref page="rapport-bothorel/hubs-de-partage.md" %}
+
+{% page-ref page="rapport-bothorel/besoins-operationnels.md" %}
+
+{% page-ref page="rapport-bothorel/portage-politique.md" %}
+
+{% page-ref page="rapport-bothorel/formation-et-acculturation.md" %}
 
 
 
