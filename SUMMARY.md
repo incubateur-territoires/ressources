@@ -42,7 +42,7 @@
 * [🔑 Besoins opérationnels](rapport-bothorel/besoins-operationnels.md)
 * [📌Portage politique](rapport-bothorel/portage-politique.md)
 * [📢 Formation et acculturation](rapport-bothorel/formation-et-acculturation.md)
-* [Données d'intérêt général \[DRAFT\]](rapport-bothorel/donnees-dinteret-general-draft.md)
+* [🏓 Données d'intérêt général \[DRAFT\]](rapport-bothorel/donnees-dinteret-general-draft.md)
 
 ---
 
