@@ -25,7 +25,7 @@ Voir avec Mauko la date de dernière MàJ et la facon correcte de référencer c
 | **Groupement**  | GIE/GEIE              |
 
 {% hint style="info" %}
-Le droit est une matière vivante ! Une enquête de la 27ème Région permettra en 2021 de partager les pratiques de terrain des juristes qui accompagnent des tiers-lieux de différents territoires francais, et qui ont besoin de contractualiser autour des Communs produits et maintenus.
+Le droit est une matière vivante ! Une enquête de la 27ème Région permettra en 2021 de partager les pratiques de terrain des juristes qui accompagnent des tiers-lieux de différents territoires français, et qui ont besoin de contractualiser autour des Communs produits et maintenus.
 
 \[ajouter ref/lien juristes embarqués ?\]
 {% endhint %}

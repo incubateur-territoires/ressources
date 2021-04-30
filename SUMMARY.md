@@ -22,8 +22,6 @@
     * [Points de vigilance autour des données](communs-numeriques/ecosysteme-documentaire/synthese/donnees.md)
     * [Marque](communs-numeriques/ecosysteme-documentaire/synthese/marque.md)
   * [🔧 Outillage Projet](communs-numeriques/ecosysteme-documentaire/produire-des-communs.md)
-  * [🔦 Pérennisation](communs-numeriques/ecosysteme-documentaire/perennisation/README.md)
-    * [Interaction avec les usagers](communs-numeriques/ecosysteme-documentaire/perennisation/communaute.md)
 * [🔎 Exemples et cas pratiques](communs-numeriques/exemples/README.md)
   * [La Rochelle Territoire Zéro Carbone](communs-numeriques/exemples/la-rochelle-territoire-zero-carbone.md)
 * [🦺 Juridique](communs-numeriques/juridique/README.md)
