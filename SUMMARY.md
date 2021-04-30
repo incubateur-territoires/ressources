@@ -46,12 +46,6 @@
 * [📢 Formation et acculturation](rapport-bothorel/formation-et-acculturation.md)
 * [Données d'intérêt général \[DRAFT\]](rapport-bothorel/donnees-dinteret-general-draft.md)
 
-## OUTILS
-
-* [💡 Glossaire](outils/glossaire/README.md)
-  * [Commun\(s\)](outils/glossaire/commun-s.md)
-  * [Enclosure](outils/glossaire/enclosure.md)
-
 ---
 
 * [🧲 Sources](sources.md)

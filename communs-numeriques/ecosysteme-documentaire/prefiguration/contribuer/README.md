@@ -6,7 +6,7 @@ description: Comprendre et évaluer son engagement dans un projet de communs
 
 ## Différents niveaux d'engagement <a id="commun-contributif"></a>
 
-Certains projets peuvent exister sans contribution active de leurs usagers. Ils nécessitent un commun _minimal_ pour fonctionner. Dans ce cas, la maintenance du commun consiste principalement à prévenir des [`enclosures`](../../../../outils/glossaire/enclosure.md), c'est-à-dire que des ressources du commun soient réappropriées hors des règles qui cadrent l'utilisation et la gouvernance du commun~~.~~
+Certains projets peuvent exister sans contribution active de leurs usagers. Ils nécessitent un commun _minimal_ pour fonctionner. Dans ce cas, la maintenance du commun consiste principalement à prévenir des [`enclosures`](), c'est-à-dire que des ressources du commun soient réappropriées hors des règles qui cadrent l'utilisation et la gouvernance du commun~~.~~
 
 Certaines projets tirent leur valeur de l’investissement d’une multitude d’acteurs. Ils nécessitent un commun _contributif_  pour maintenir la qualité du commun, mais aussi de la capacité à contribuer de sa communauté.
 

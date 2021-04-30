@@ -7,16 +7,12 @@ description: >-
 
 # Données d'intérêt général \[DRAFT\]
 
-La collecte de données privées par la puissance publique est une réalité ancienne qui s’amplifie et se diversifie 
-
 Aujourd’hui, une large partie de l’action et du rôle même de la puissance publique est de collecter, de traiter et d’archiver des données fournies par les particuliers et les organisations privées. 
 
 * Les entreprises sont aujourd’hui soumises à de multiples régimes de déclaration obligatoire
 * Les foyers sont tenus de déclarer leurs revenus, mais aussi les principaux évènements de vie \(naissances, unions, décès par exemple\). 
 
-Les individus et les organisations privées sont donc conduits à fournir un nombre croissant de données, ce qui incite d’ailleurs la puissance publique à rationaliser ses exigences, par exemple avec le dispositif "Dites-le-nous une fois". 
-
-Au fil du temps, les rapports sociaux et économiques se sont complexifiés et le service public s’est étendu pour répondre aux attentes de la population. Les données nécessaires à l’accomplissement des missions de service public sont donc toujours plus nombreuses, et permettent notamment de :
+Les données **nécessaires à l’accomplissement des missions de service public** sont donc toujours plus nombreuses, et permettent notamment de :
 
 * délivrer des autorisations et des titres ;
 * contrôler le respect des obligations légales et réglementaires ;
@@ -25,13 +21,11 @@ Au fil du temps, les rapports sociaux et économiques se sont complexifiés et l
 * permettre des projets de recherche ;
 * favoriser le développement économique.
 
-En outre, le développement des technologies numériques a produit une rupture quant à la nature des données qui peuvent intéresser la puissance publique et le potentiel qu’elle peut tirer de leur utilisation. Les données dont il est désormais souvent question sont, pour la plupart, des données massives \(Big Data\) liées à des transactions ou générées sous la forme de traces \(par exemple les données de caisse ou encore les trajets parcourus par un véhicule\). Selon l’organisation des Nations Unies, le Big Data est une opportunité de générer des informations en temps-réel, alors que les statistiques publiques apportent une information validée a posteriori, via des enquêtes rigoureuses.
+Les données **qui peuvent intéresser la puissance publique** sont désormais, pour la plupart, des données massives \(Big Data\) liées à des transactions ou générées sous la forme de traces \(par exemple les données de caisse ou encore les trajets parcourus par un véhicule\). 
 
-Les deux sources de données se complètent davantage qu’elles ne s’opposent. Comme l’illustre le cas d’usage sur la statistique publique, la combinaison de ces deux types de données nécessite cependant un important travail \(cf. le cas d’usage sur les données du secteur privé utilisées par la statistique publique\).
+Les deux sources de données se complètent.
 
-Les données Big Data seules présentent tout de même une valeur d’usage certaine. La capacité à suivre, en quasi temps-réel, l’évolution des transactions de cartes bancaires dans un secteur d’activité \(par exemple les bars et restaurants\) et sur un territoire donné peut être une information précieuse, par exemple pour le suivi des impacts de la crise sanitaire. Cette dimension de "tableaux de bord" offre de réels bénéfices en période de forte incertitude.
-
-**La puissance publique collabore selon des modalités diversifiées avec les acteurs privés**
+#### **La puissance publique collabore selon des modalités diversifiées avec les acteurs privés**
 
 De nombreuses initiatives ont vu le jour autour des données d’intérêt général, dans des secteurs d’activité et selon des modalités différentes. Le groupe d’experts mandaté par la Commission européenne a recensé au moins cinq modalités de collaboration entre acteurs publics et privés \(entreprises et associations\) :
 
@@ -41,33 +35,23 @@ De nombreuses initiatives ont vu le jour autour des données d’intérêt gén�
 * le fournisseur de données partage des données avec un ou plusieurs tiers de confiance identifiés ;
 * le fournisseur de données autorise un accès direct à certains ensembles de données.
 
-Pour l’ensemble de ces modalités, les données \(et les connaissances\) peuvent être partagées sur une base volontaire ou faire l’objet d’obligations légales \(comme pour les régimes de déclaration obligatoire\). Parmi les initiatives volontaristes, on peut citer le réseau des Banques Populaires \(Groupe BPCE\) qui met à disposition des données agrégées sur les dépenses et paiements des touristes étrangers dans chaque région de France. La société Waze propose aux collectivités de participer à son programme Connected Citizens, qui prévoit un échange de données entre les parties prenantes.
+Pour l’ensemble de ces modalités, **les données \(et les connaissances\) peuvent être partagées sur une base volontaire ou faire l’objet d’obligations légales** \(comme pour les régimes de déclaration obligatoire\). 
 
 Certains acteurs publics peuvent aussi faire l’acquisition de données du secteur privé par le biais de marchés publics. Les coûts de transaction peuvent être particulièrement élevés \(identification de la source de données et de son producteur, négociation des conditions contractuelles, accord sur les modalités techniques et juridiques\) et les risques perçus particulièrement forts \(incertitude sur la qualité de la donnée fournie, manque d’expérience au sein du secteur public sur l’utilisation de ce type de données\).
 
-Il convient enfin de distinguer une grande diversité de finalités et de motivations, pour la puissance publique, à accéder à des données des acteurs privés. La régulation d’un secteur \(l’énergie, les télécommunications aujourd’hui, demain sans doute les grandes plateformes numériques\) ou l’amélioration des politiques publiques, comme la protection de l’environnement, font notamment partie des motifs identifiés.
+#### Les premières bases juridiques sectorielles qui encadrent l’utilisation des données d’intérêt général sont particulièrement hétérogènes et peu cohérentes 
 
-Les premières bases juridiques sectorielles qui encadrent l’utilisation des données d’intérêt général sont particulièrement hétérogènes et peu cohérentes Le cadre juridique français en matière de partage des données d’intérêt général est tout autant fragmenté et dispersé que les initiatives concrètes conduites par les acteurs, de façon volontaire ou contrainte. Il existe en effet de nombreux secteurs où l’intervention du législateur est légitime et a pu s’appuyer sur des motifs d’intérêt général suffisamment robustes pour limiter les droits et libertés des personnes privées. Cette construction juridique a le mérite du pragmatisme car elle permet bien souvent de répondre à des enjeux très spécifiques des secteurs concernés et de se placer au plus près des usages, mais la mission regrette qu’elle ait été élaborée sans vision d’ensemble ni principes méthodologiques communs.
+Le cadre juridique français en matière de partage des données d’intérêt général est tout autant fragmenté et dispersé que les initiatives concrètes conduites par les acteurs, de façon volontaire ou contrainte. 
 
-Dans le domaine du transport, l’article 4 de la loi du 6 août 2015 pour la croissance, l’activité et l’égalité des chances économiques a suivi les recommandations du rapport Jutand en prévoyant une obligation de diffusion libre et gratuite des données des services réguliers de transport public et des services de mobilité à des fins d’information du voyageur sur les horaires, prix, tarifs et itinéraires.
+* De nombreux secteurs où l’intervention du législateur est légitime et a pu s’appuyer sur des motifs d’intérêt général suffisamment robustes pour limiter les droits et libertés des personnes privées. 
+* Répond à des enjeux très spécifiques se place au plus près des usages, mais ni vision d’ensemble ni principes méthodologiques communs.
+* Ex. dans le domaine du transport, l’article 4 de la loi du 6 août 2015 prévoitune obligation de diffusion libre et gratuite des données des services réguliers de transport public et des services de mobilité à des fins d’information du voyageur sur les horaires, prix, tarifs et itinéraires. En 2019, la loi d’orientation des mobilités élargissant le champ des données concernées
+* Ex. dans le domaine de la santé, la loi du 26 janvier 2016 permet l’intégration des données publiques de l’assurance maladie et des hôpitaux avec des données privées des complémentaires santé. Le Health Data Hub en 2019 a constitué un saut qualitatif substantiel dans l’enrichissement du catalogue de données de santé exploitables pour la recherche, l’appui au personnel soignant, le pilotage du système de santé, l’information des patients et le développement des technologies d’intelligence artificielle en santé.
+* Ex. dans le domaine de la formation professionnelle, la loi du 8 août 2016 prévoit la mise à disposition des données des organismes de formation sur les entrées et les sorties des formations et les taux de retour à l’emploi.
 
-En 2019, la loi d’orientation des mobilités a renforcé cette dynamique d’ouverture en élargissant le champ des données concernées, pour y inclure les données statiques et dynamiques sur les déplacements et la circulation, ainsi que les données des bornes de recharge électrique \(localisation, puissance, tarification, etc\) et des services de covoiturage, de free-floating et des gestionnaires de l’infrastructure ferroviaire \(cf. cas d’usage sur le bilan de l’application de la législation en matière de données de mobilité\).
+Un effort de généralisation à partir des cas d’usage permettrait d’accélérer une politique publique des données d’intérêt général, qui serait construite de manière réflexive et volontariste.
 
-Dans le domaine de la santé, la loi du 26 janvier 2016 de modernisation de notre système de santé permet l’intégration des données publiques de l’assurance maladie et des hôpitaux avec des données privées des complémentaires santé. La création du Health Data Hub en 2019 a constitué un saut qualitatif substantiel dans l’enrichissement du catalogue de données de santé exploitables pour la recherche, l’appui au personnel soignant, le pilotage du système de santé, l’information des patients et le développement des technologies d’intelligence artificielle en santé.
-
-Dans le domaine de la formation professionnelle, la loi du 8 août 2016 relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels prévoit la mise à disposition des données des organismes de formation sur les entrées et les sorties des formations et les taux de retour à l’emploi.
-
-Dans le domaine du logement, la loi pour une République numérique et la loi ELAN ont prévu des obligations de coopération renforcée entre les plateformes de location de meublés touristiques et les communes, afin de faire respecter la limite de location d’un meublé fixée à 120 jours par an. La commune peut ainsi exiger de la plateforme qu’elle lui fournisse une liste détaillée des biens loués par son intermédiaire, avec à chaque fois l’adresse du logement, son numéro de déclaration et le nombre de jours au cours desquels il a fait l’objet d’une location, selon des modalités et une fréquence fixées par décret.
-
-Dans le domaine de l’énergie, certaines dispositions de la loi relative à la transition énergétique pour la croissance verte permettent au fournisseur d’électricité de recevoir des gestionnaires de réseaux leurs données de comptage, des systèmes d’alerte liés au niveau de consommation, ainsi que des éléments de comparaisons pour qu’ils soient ensuite mis à la disposition gratuitement du consommateur. Cette loi a également créé un registre national des installations de production et de stockage d’électricité, alimenté et tenu à jour par les gestionnaires du réseau, qui est mis à disposition du ministre chargé de l’énergie.
-
-Malgré leur caractère non exhaustif, force est de constater que ces exemples de dispositions sectorielles permettent déjà de mettre en évidence la diversité et la fragmentation de notre ordre juridique en matière de données d’intérêt général. Sur le fond, cette hétérogénéité n’est pas nécessairement préjudiciable en soi, car l’approche par cas d’usage permet de calibrer les dispositifs de façon adaptée aux différentes problématiques. S’agissant de la méthode en revanche, le processus de construction de ces dispositions pourrait être davantage concerté et discuté, afin de structurer et donner une meilleure cohérence aux initiatives.
-
-La mission estime qu’un effort de généralisation à partir des cas d’usage permettrait d’accélérer et de rehausser les ambitions d’une politique publique des données d’intérêt général, qui ne serait plus mobilisée de façon accessoire ou incidente mais construite de manière réflexive et volontariste.
-
-Pour ce faire, la mission considère qu’il est de la responsabilité de l’État d’entreprendre une démarche inductive afin d’identifier systématiquement ce qui, dans chacun de ces cadres sectoriels existants et futurs, pourrait relever de bonnes pratiques susceptibles de nourrir une doctrine d’aide à la décision. La puissance publique pourrait alors décliner ce cadre, sans avoir à se poser les mêmes questions à chaque nouvelle problématique, ce qui permettrait à l’action publique de mieux suivre le rythme des évolutions rapides des usages et technologies numériques.
-
-Aujourd’hui, beaucoup trop de besoins demeurent insatisfaits dans la sphère publique, comme le révèle la pratique grandissante et non encadrée de scraping par certains acteurs \(le web scraping consistant à extraire, à l’aide d’un programme, les données d’un site web pour les réutiliser\). Ces derniers ont besoin d’un recours et d’une médiation pour exprimer ce besoin et pouvoir développer des partenariats avec les acteurs privés en vue de partager davantage d’informations.
+Il est de la responsabilité de l’État d’entreprendre une démarche inductive afin d’identifier systématiquement ce qui, dans chacun de ces cadres sectoriels existants et futurs, pourrait relever de bonnes pratiques susceptibles de nourrir une doctrine d’aide à la décision. La puissance publique pourrait alors décliner ce cadre, sans avoir à se poser les mêmes questions à chaque nouvelle problématique, ce qui permettrait à l’action publique de mieux suivre le rythme des évolutions rapides des usages et technologies numériques.
 
 La définition d’une doctrine d’action partagée entre tous les acteurs est d’autant plus impérative que les données d’intérêt général constituent un levier puissant de transformation et de résolution des problèmes complexes auxquels nos sociétés sont confrontées. Il est désormais temps de passer à l’échelle.
 
