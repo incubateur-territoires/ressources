@@ -20,8 +20,6 @@
     * [Licences liées au code source](communs-numeriques/ecosysteme-documentaire/synthese/code-source.md)
     * [Clauses liées à l'usage](communs-numeriques/ecosysteme-documentaire/synthese/usage.md)
     * [Points de vigilance autour des données](communs-numeriques/ecosysteme-documentaire/synthese/donnees.md)
-    * [Marque](communs-numeriques/ecosysteme-documentaire/synthese/marque.md)
-  * [🔧 Outillage Projet](communs-numeriques/ecosysteme-documentaire/produire-des-communs.md)
 * [🔎 Exemples et cas pratiques](communs-numeriques/exemples/README.md)
   * [La Rochelle Territoire Zéro Carbone](communs-numeriques/exemples/la-rochelle-territoire-zero-carbone.md)
 * [🦺 Juridique](communs-numeriques/juridique/README.md)
