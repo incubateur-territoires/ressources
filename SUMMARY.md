@@ -26,6 +26,10 @@
   * [Sécuriser les droits des contributeurs](communs-numeriques/juridique/securiser-les-droits-des-contributeurs.md)
   * [Prévenir les risques](communs-numeriques/juridique/communs-comment-prevenir-les-risques.md)
 
+## 📒 AMDAC
+
+* [Page 1](amdac/page-1.md)
+
 ## RAPPORT BOTHOREL
 
 * [🎯 Recommandations](rapport-bothorel/recommandations-version-originale.md)
@@ -42,7 +46,6 @@
 * [📢 Formation et acculturation](rapport-bothorel/formation-et-acculturation.md)
 * [🏓 Données d'intérêt général \[DRAFT\]](rapport-bothorel/donnees-dinteret-general-draft.md)
 
----
+***
 
 * [🧲 Sources](sources.md)
-
